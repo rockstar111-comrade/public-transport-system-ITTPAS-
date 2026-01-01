@@ -1,0 +1,3578 @@
+[
+  {
+    "stop_id": "S1",
+    "name": "Chhota Anjaiah Nagar",
+    "lat": 17.4473271,
+    "lon": 78.3634745
+  },
+  {
+    "stop_id": "S2",
+    "name": "Domalguada Bus top",
+    "lat": 17.4102427,
+    "lon": 78.4865519
+  },
+  {
+    "stop_id": "S3",
+    "name": "Tarnaka Bus Stop",
+    "lat": 17.4263175,
+    "lon": 78.5313258
+  },
+  {
+    "stop_id": "S4",
+    "name": "TGSRTC Hospital Bus Stop",
+    "lat": 17.4259908,
+    "lon": 78.5302396
+  },
+  {
+    "stop_id": "S5",
+    "name": "Old Dairy Farm",
+    "lat": 17.4238103,
+    "lon": 78.5274645
+  },
+  {
+    "stop_id": "S6",
+    "name": "NCC",
+    "lat": 17.4060326,
+    "lon": 78.5169959
+  },
+  {
+    "stop_id": "S7",
+    "name": "Engineering College",
+    "lat": 17.4091039,
+    "lon": 78.5201029
+  },
+  {
+    "stop_id": "S8",
+    "name": "Law College",
+    "lat": 17.4148776,
+    "lon": 78.5250554
+  },
+  {
+    "stop_id": "S9",
+    "name": "Ladies Hostel",
+    "lat": 17.4118475,
+    "lon": 78.5218367
+  },
+  {
+    "stop_id": "S10",
+    "name": "Arts College",
+    "lat": 17.4203646,
+    "lon": 78.527347
+  },
+  {
+    "stop_id": "S11",
+    "name": "JNTU Bus Stop toward Hitech City",
+    "lat": 17.4957688,
+    "lon": 78.3948885
+  },
+  {
+    "stop_id": "S12",
+    "name": "Stop 12",
+    "lat": 17.4430816,
+    "lon": 78.4404626
+  },
+  {
+    "stop_id": "S13",
+    "name": "Madhapur Petrol Pump",
+    "lat": 17.4411141,
+    "lon": 78.3914668
+  },
+  {
+    "stop_id": "S14",
+    "name": "Madhapur Petrol Pump",
+    "lat": 17.440965,
+    "lon": 78.3913097
+  },
+  {
+    "stop_id": "S15",
+    "name": "Stop 15",
+    "lat": 17.4928865,
+    "lon": 78.4023206
+  },
+  {
+    "stop_id": "S16",
+    "name": "S.R.Nagar Bus Stop",
+    "lat": 17.4374277,
+    "lon": 78.443449
+  },
+  {
+    "stop_id": "S17",
+    "name": "Stop 17",
+    "lat": 17.4364999,
+    "lon": 78.4440447
+  },
+  {
+    "stop_id": "S18",
+    "name": "Sikh Village",
+    "lat": 17.4566,
+    "lon": 78.4900888
+  },
+  {
+    "stop_id": "S19",
+    "name": "Tarbund",
+    "lat": 17.456317,
+    "lon": 78.4840993
+  },
+  {
+    "stop_id": "S20",
+    "name": "Paradise",
+    "lat": 17.4451266,
+    "lon": 78.4871598
+  },
+  {
+    "stop_id": "S21",
+    "name": "Bapuji Nagar Stop",
+    "lat": 17.4677226,
+    "lon": 78.4818498
+  },
+  {
+    "stop_id": "S22",
+    "name": "Center Point",
+    "lat": 17.4642307,
+    "lon": 78.4844156
+  },
+  {
+    "stop_id": "S23",
+    "name": "Wholesale Market",
+    "lat": 17.4693252,
+    "lon": 78.4948647
+  },
+  {
+    "stop_id": "S24",
+    "name": "Stop 24",
+    "lat": 17.3744556,
+    "lon": 78.4753984
+  },
+  {
+    "stop_id": "S25",
+    "name": "Public Library",
+    "lat": 17.3738598,
+    "lon": 78.4779838
+  },
+  {
+    "stop_id": "S26",
+    "name": "Ramnagar Cross Roads Bus Stop",
+    "lat": 17.4107475,
+    "lon": 78.5075901
+  },
+  {
+    "stop_id": "S27",
+    "name": "Ramnagar Gundu Bus Stop",
+    "lat": 17.4077286,
+    "lon": 78.5120765
+  },
+  {
+    "stop_id": "S28",
+    "name": "Cyber Towers",
+    "lat": 17.450675,
+    "lon": 78.3801434
+  },
+  {
+    "stop_id": "S29",
+    "name": "Cyber Towers Bus Stop",
+    "lat": 17.4507134,
+    "lon": 78.3821189
+  },
+  {
+    "stop_id": "S30",
+    "name": "V IT Park",
+    "lat": 17.4342977,
+    "lon": 78.3843417
+  },
+  {
+    "stop_id": "S31",
+    "name": "V IT Park",
+    "lat": 17.4340492,
+    "lon": 78.3840991
+  },
+  {
+    "stop_id": "S32",
+    "name": "Mindspace",
+    "lat": 17.4414196,
+    "lon": 78.3769845
+  },
+  {
+    "stop_id": "S33",
+    "name": "Stop 33",
+    "lat": 17.2537174,
+    "lon": 78.6781899
+  },
+  {
+    "stop_id": "S34",
+    "name": "Stop 34",
+    "lat": 17.2552646,
+    "lon": 78.676602
+  },
+  {
+    "stop_id": "S35",
+    "name": "Ramoji Film City Bus Pick-Up Point",
+    "lat": 17.3090415,
+    "lon": 78.6820028
+  },
+  {
+    "stop_id": "S36",
+    "name": "Kuntloor",
+    "lat": 17.3404117,
+    "lon": 78.6259087
+  },
+  {
+    "stop_id": "S37",
+    "name": "Stop 37",
+    "lat": 17.4318264,
+    "lon": 78.4068998
+  },
+  {
+    "stop_id": "S38",
+    "name": "Stop 38",
+    "lat": 17.4315449,
+    "lon": 78.4071305
+  },
+  {
+    "stop_id": "S39",
+    "name": "L V Prasad",
+    "lat": 17.4235017,
+    "lon": 78.4276065
+  },
+  {
+    "stop_id": "S40",
+    "name": "VST Bus Stop",
+    "lat": 17.4048294,
+    "lon": 78.5022525
+  },
+  {
+    "stop_id": "S41",
+    "name": "TSRTC BUS DEPOT, MUSHEERABAD 1",
+    "lat": 17.4073169,
+    "lon": 78.5033717
+  },
+  {
+    "stop_id": "S42",
+    "name": "YMCA Bus Stop",
+    "lat": 17.3959051,
+    "lon": 78.4909681
+  },
+  {
+    "stop_id": "S43",
+    "name": "Indira Park",
+    "lat": 17.4116181,
+    "lon": 78.4824323
+  },
+  {
+    "stop_id": "S44",
+    "name": "HMT Bus stop",
+    "lat": 17.4244708,
+    "lon": 78.5472919
+  },
+  {
+    "stop_id": "S45",
+    "name": "NIMS",
+    "lat": 17.4231252,
+    "lon": 78.4546595
+  },
+  {
+    "stop_id": "S46",
+    "name": "Telephone Bhavan",
+    "lat": 17.4072432,
+    "lon": 78.4663365
+  },
+  {
+    "stop_id": "S47",
+    "name": "Lakdikapul Bus Stop",
+    "lat": 17.4034111,
+    "lon": 78.4652115
+  },
+  {
+    "stop_id": "S48",
+    "name": "Himayathnagar Bus stop",
+    "lat": 17.4022136,
+    "lon": 78.4836242
+  },
+  {
+    "stop_id": "S49",
+    "name": "Birla Mandir",
+    "lat": 17.4046345,
+    "lon": 78.4676224
+  },
+  {
+    "stop_id": "S50",
+    "name": "Latha Talkies",
+    "lat": 17.39038,
+    "lon": 78.4686267
+  },
+  {
+    "stop_id": "S51",
+    "name": "HMT",
+    "lat": 17.4234932,
+    "lon": 78.5465945
+  },
+  {
+    "stop_id": "S52",
+    "name": "TV9 Bus Stop",
+    "lat": 17.4269784,
+    "lon": 78.4396869
+  },
+  {
+    "stop_id": "S53",
+    "name": "Stop 53",
+    "lat": 17.4351205,
+    "lon": 78.5142111
+  },
+  {
+    "stop_id": "S54",
+    "name": "Stop 54",
+    "lat": 17.4422852,
+    "lon": 78.4584347
+  },
+  {
+    "stop_id": "S55",
+    "name": "Begumpet",
+    "lat": 17.4421395,
+    "lon": 78.4585964
+  },
+  {
+    "stop_id": "S56",
+    "name": "Stop 56",
+    "lat": 17.4439888,
+    "lon": 78.4612656
+  },
+  {
+    "stop_id": "S57",
+    "name": "Stop 57",
+    "lat": 17.4443551,
+    "lon": 78.4610365
+  },
+  {
+    "stop_id": "S58",
+    "name": "Shoppers Stop",
+    "lat": 17.4448332,
+    "lon": 78.4656108
+  },
+  {
+    "stop_id": "S59",
+    "name": "\u0c2e\u0c46\u0c1f\u0c4d\u0c1f\u0c41\u0c17\u0c41\u0c21",
+    "lat": 17.434104,
+    "lon": 78.520881
+  },
+  {
+    "stop_id": "S60",
+    "name": "Stop 60",
+    "lat": 17.4278269,
+    "lon": 78.5292938
+  },
+  {
+    "stop_id": "S61",
+    "name": "Diamond Point",
+    "lat": 17.4622124,
+    "lon": 78.4909058
+  },
+  {
+    "stop_id": "S62",
+    "name": "Diamond Point",
+    "lat": 17.4624069,
+    "lon": 78.4911418
+  },
+  {
+    "stop_id": "S63",
+    "name": "Patny Bus Stop",
+    "lat": 17.4430219,
+    "lon": 78.4945643
+  },
+  {
+    "stop_id": "S64",
+    "name": "Keyes High School",
+    "lat": 17.4388713,
+    "lon": 78.5047987
+  },
+  {
+    "stop_id": "S65",
+    "name": "Airport Liner",
+    "lat": 17.4390044,
+    "lon": 78.5048952
+  },
+  {
+    "stop_id": "S66",
+    "name": "Kaman",
+    "lat": 17.407861,
+    "lon": 78.4389668
+  },
+  {
+    "stop_id": "S67",
+    "name": "Pension Office Bus Stop",
+    "lat": 17.4077258,
+    "lon": 78.4509789
+  },
+  {
+    "stop_id": "S68",
+    "name": "Stop 68",
+    "lat": 17.4996016,
+    "lon": 78.5373572
+  },
+  {
+    "stop_id": "S69",
+    "name": "Ammuguda",
+    "lat": 17.4967059,
+    "lon": 78.5323898
+  },
+  {
+    "stop_id": "S70",
+    "name": "Ranigunj",
+    "lat": 17.4303516,
+    "lon": 78.4879985
+  },
+  {
+    "stop_id": "S71",
+    "name": "Stop 71",
+    "lat": 17.4652813,
+    "lon": 78.4726775
+  },
+  {
+    "stop_id": "S72",
+    "name": "Bowenpally",
+    "lat": 17.465169,
+    "lon": 78.4729384
+  },
+  {
+    "stop_id": "S73",
+    "name": "Bowenpally",
+    "lat": 17.463161,
+    "lon": 78.4725389
+  },
+  {
+    "stop_id": "S74",
+    "name": "Tarbund",
+    "lat": 17.4564424,
+    "lon": 78.4839007
+  },
+  {
+    "stop_id": "S75",
+    "name": "Bowenpally",
+    "lat": 17.4617293,
+    "lon": 78.4733842
+  },
+  {
+    "stop_id": "S76",
+    "name": "amberpet bus stop",
+    "lat": 17.3920701,
+    "lon": 78.5164734
+  },
+  {
+    "stop_id": "S77",
+    "name": "chey number stop",
+    "lat": 17.3915758,
+    "lon": 78.5123889
+  },
+  {
+    "stop_id": "S78",
+    "name": "Kothaguda",
+    "lat": 17.4594101,
+    "lon": 78.3659425
+  },
+  {
+    "stop_id": "S79",
+    "name": "Stop 79",
+    "lat": 17.4641924,
+    "lon": 78.3667766
+  },
+  {
+    "stop_id": "S80",
+    "name": "DLF Bus stop near JNIB",
+    "lat": 17.4445422,
+    "lon": 78.3536778
+  },
+  {
+    "stop_id": "S81",
+    "name": "Gachibowli",
+    "lat": 17.439503,
+    "lon": 78.3635448
+  },
+  {
+    "stop_id": "S82",
+    "name": "Indra Nagar",
+    "lat": 17.441046,
+    "lon": 78.3603475
+  },
+  {
+    "stop_id": "S83",
+    "name": "Stop 83",
+    "lat": 17.457719,
+    "lon": 78.3716207
+  },
+  {
+    "stop_id": "S84",
+    "name": "Fever Hospital",
+    "lat": 17.395501,
+    "lon": 78.5024402
+  },
+  {
+    "stop_id": "S85",
+    "name": "Kanajiguda Bus Stop",
+    "lat": 17.4846693,
+    "lon": 78.4972634
+  },
+  {
+    "stop_id": "S86",
+    "name": "Teachers Colony",
+    "lat": 17.4814108,
+    "lon": 78.5023248
+  },
+  {
+    "stop_id": "S87",
+    "name": "Lal Bazar",
+    "lat": 17.4785608,
+    "lon": 78.5110259
+  },
+  {
+    "stop_id": "S88",
+    "name": "Lal Bazar",
+    "lat": 17.4791338,
+    "lon": 78.5107791
+  },
+  {
+    "stop_id": "S89",
+    "name": "Nirmal Nagar",
+    "lat": 17.4903783,
+    "lon": 78.5377761
+  },
+  {
+    "stop_id": "S90",
+    "name": "Shoppers Stop",
+    "lat": 17.4451251,
+    "lon": 78.4655312
+  },
+  {
+    "stop_id": "S91",
+    "name": "Stop 91",
+    "lat": 17.4390017,
+    "lon": 78.3970577
+  },
+  {
+    "stop_id": "S92",
+    "name": "Malkajgiri Bus Stop",
+    "lat": 17.4498327,
+    "lon": 78.5366468
+  },
+  {
+    "stop_id": "S93",
+    "name": "Safilguda Bus Stop",
+    "lat": 17.4608934,
+    "lon": 78.5354081
+  },
+  {
+    "stop_id": "S94",
+    "name": "SubStation",
+    "lat": 17.4553192,
+    "lon": 78.5298879
+  },
+  {
+    "stop_id": "S95",
+    "name": "Safil Guda",
+    "lat": 17.4623094,
+    "lon": 78.532613
+  },
+  {
+    "stop_id": "S96",
+    "name": "Uttam Nagar",
+    "lat": 17.4598326,
+    "lon": 78.5315831
+  },
+  {
+    "stop_id": "S97",
+    "name": "Dayananda Nagar",
+    "lat": 17.4577857,
+    "lon": 78.5308213
+  },
+  {
+    "stop_id": "S98",
+    "name": "Anandh Bagh",
+    "lat": 17.4587554,
+    "lon": 78.5366052
+  },
+  {
+    "stop_id": "S99",
+    "name": "Hanumanpet",
+    "lat": 17.446169,
+    "lon": 78.5265298
+  },
+  {
+    "stop_id": "S100",
+    "name": "Jyothi Nagar",
+    "lat": 17.4431803,
+    "lon": 78.5247917
+  },
+  {
+    "stop_id": "S101",
+    "name": "Anandh Bagh",
+    "lat": 17.4593619,
+    "lon": 78.5360999
+  },
+  {
+    "stop_id": "S102",
+    "name": "Mallikarjuna Nagar",
+    "lat": 17.4495057,
+    "lon": 78.5274203
+  },
+  {
+    "stop_id": "S103",
+    "name": "Tukaram Gate",
+    "lat": 17.4410718,
+    "lon": 78.5222061
+  },
+  {
+    "stop_id": "S104",
+    "name": "Muudu Gudulu",
+    "lat": 17.4715398,
+    "lon": 78.5391654
+  },
+  {
+    "stop_id": "S105",
+    "name": "Neredmet Old PS",
+    "lat": 17.4738936,
+    "lon": 78.5386343
+  },
+  {
+    "stop_id": "S106",
+    "name": "Vinayak Nagar",
+    "lat": 17.469273,
+    "lon": 78.5391171
+  },
+  {
+    "stop_id": "S107",
+    "name": "Krupa Complex",
+    "lat": 17.46521,
+    "lon": 78.5385377
+  },
+  {
+    "stop_id": "S108",
+    "name": "VLCC Bus Stop",
+    "lat": 17.4141424,
+    "lon": 78.423745
+  },
+  {
+    "stop_id": "S109",
+    "name": "Nagole X Road",
+    "lat": 17.3754928,
+    "lon": 78.5579136
+  },
+  {
+    "stop_id": "S110",
+    "name": "Chaitanyapuri Bus Stop",
+    "lat": 17.3685468,
+    "lon": 78.5329092
+  },
+  {
+    "stop_id": "S111",
+    "name": "Dubai Gate",
+    "lat": 17.4721238,
+    "lon": 78.484531
+  },
+  {
+    "stop_id": "S112",
+    "name": "Mahatma Nagar",
+    "lat": 17.4691107,
+    "lon": 78.4834527
+  },
+  {
+    "stop_id": "S113",
+    "name": "Rajiv Gandhi Nagar",
+    "lat": 17.4413689,
+    "lon": 78.3627758
+  },
+  {
+    "stop_id": "S114",
+    "name": "VNRVJIET Student Bus-Stop",
+    "lat": 17.539847,
+    "lon": 78.3862085
+  },
+  {
+    "stop_id": "S115",
+    "name": "Indra Nagar",
+    "lat": 17.4409616,
+    "lon": 78.360012
+  },
+  {
+    "stop_id": "S116",
+    "name": "Kacheguda Railway Station Bus Stop",
+    "lat": 17.3897353,
+    "lon": 78.4986692
+  },
+  {
+    "stop_id": "S117",
+    "name": "Chintal Basti",
+    "lat": 17.4070738,
+    "lon": 78.4606872
+  },
+  {
+    "stop_id": "S118",
+    "name": "Stop 118",
+    "lat": 17.4428937,
+    "lon": 78.5039242
+  },
+  {
+    "stop_id": "S119",
+    "name": "Stop 119",
+    "lat": 17.4366218,
+    "lon": 78.5195776
+  },
+  {
+    "stop_id": "S120",
+    "name": "Cyber Gateway",
+    "lat": 17.4472459,
+    "lon": 78.3778986
+  },
+  {
+    "stop_id": "S121",
+    "name": "Nagarjuna Circle Bus Stop",
+    "lat": 17.4272928,
+    "lon": 78.4450291
+  },
+  {
+    "stop_id": "S122",
+    "name": "Sri Nagar Colony Bus Stop",
+    "lat": 17.4301846,
+    "lon": 78.442438
+  },
+  {
+    "stop_id": "S123",
+    "name": "Banjara Hills Road No.2 Lumbini Mall",
+    "lat": 17.4258368,
+    "lon": 78.4359253
+  },
+  {
+    "stop_id": "S124",
+    "name": "Lingampalli Railway Station",
+    "lat": 17.483695,
+    "lon": 78.3165842
+  },
+  {
+    "stop_id": "S125",
+    "name": "Gachibowli",
+    "lat": 17.4385641,
+    "lon": 78.3643036
+  },
+  {
+    "stop_id": "S126",
+    "name": "Gachibowli",
+    "lat": 17.439004,
+    "lon": 78.3629707
+  },
+  {
+    "stop_id": "S127",
+    "name": "GPRA Quarters Enterance",
+    "lat": 17.4382485,
+    "lon": 78.3580736
+  },
+  {
+    "stop_id": "S128",
+    "name": "Chikkadpally",
+    "lat": 17.4035699,
+    "lon": 78.495308
+  },
+  {
+    "stop_id": "S129",
+    "name": "Chikkadpally",
+    "lat": 17.4020317,
+    "lon": 78.4951256
+  },
+  {
+    "stop_id": "S130",
+    "name": "Mudfort",
+    "lat": 17.4569355,
+    "lon": 78.4948998
+  },
+  {
+    "stop_id": "S131",
+    "name": "Center Point",
+    "lat": 17.4641985,
+    "lon": 78.4843442
+  },
+  {
+    "stop_id": "S132",
+    "name": "Nanalnagar",
+    "lat": 17.3959377,
+    "lon": 78.4270188
+  },
+  {
+    "stop_id": "S133",
+    "name": "Rethibowli",
+    "lat": 17.3960184,
+    "lon": 78.4307445
+  },
+  {
+    "stop_id": "S134",
+    "name": "HCU Bus Depot",
+    "lat": 17.4684811,
+    "lon": 78.3311457
+  },
+  {
+    "stop_id": "S135",
+    "name": "Gachibowli Stadium",
+    "lat": 17.4494087,
+    "lon": 78.3484676
+  },
+  {
+    "stop_id": "S136",
+    "name": "Roda Mistry College",
+    "lat": 17.4281236,
+    "lon": 78.3753876
+  },
+  {
+    "stop_id": "S137",
+    "name": "Narayanamma College",
+    "lat": 17.4099224,
+    "lon": 78.3985713
+  },
+  {
+    "stop_id": "S138",
+    "name": "Shaikpet Dargah",
+    "lat": 17.4132032,
+    "lon": 78.3945807
+  },
+  {
+    "stop_id": "S139",
+    "name": "Lingampally",
+    "lat": 17.4944937,
+    "lon": 78.3159192
+  },
+  {
+    "stop_id": "S140",
+    "name": "Khajaguda X Roads",
+    "lat": 17.4226931,
+    "lon": 78.3822849
+  },
+  {
+    "stop_id": "S141",
+    "name": "Tolichowki",
+    "lat": 17.3986352,
+    "lon": 78.4168535
+  },
+  {
+    "stop_id": "S142",
+    "name": "Sheikpet Nala",
+    "lat": 17.4062572,
+    "lon": 78.4031042
+  },
+  {
+    "stop_id": "S143",
+    "name": "HCU Bus Depot",
+    "lat": 17.468348,
+    "lon": 78.3309525
+  },
+  {
+    "stop_id": "S144",
+    "name": "Gulmohar Park Colony",
+    "lat": 17.4788198,
+    "lon": 78.3199881
+  },
+  {
+    "stop_id": "S145",
+    "name": "Khajaguda X Roads",
+    "lat": 17.422995,
+    "lon": 78.3812764
+  },
+  {
+    "stop_id": "S146",
+    "name": "Salarjung Colony",
+    "lat": 17.3969305,
+    "lon": 78.4223255
+  },
+  {
+    "stop_id": "S147",
+    "name": "Telecom Nagar",
+    "lat": 17.4350994,
+    "lon": 78.3680692
+  },
+  {
+    "stop_id": "S148",
+    "name": "Alind / Doyens Colony",
+    "lat": 17.4766959,
+    "lon": 78.3247758
+  },
+  {
+    "stop_id": "S149",
+    "name": "Galaxy",
+    "lat": 17.4028251,
+    "lon": 78.4100567
+  },
+  {
+    "stop_id": "S150",
+    "name": "Tolichowki",
+    "lat": 17.3989449,
+    "lon": 78.4154157
+  },
+  {
+    "stop_id": "S151",
+    "name": "HCU",
+    "lat": 17.4617157,
+    "lon": 78.3359951
+  },
+  {
+    "stop_id": "S152",
+    "name": "Rethibowli",
+    "lat": 17.3957045,
+    "lon": 78.4308438
+  },
+  {
+    "stop_id": "S153",
+    "name": "Galaxy",
+    "lat": 17.4034981,
+    "lon": 78.4092359
+  },
+  {
+    "stop_id": "S154",
+    "name": "Alind / Doyens Colony",
+    "lat": 17.4766062,
+    "lon": 78.3246229
+  },
+  {
+    "stop_id": "S155",
+    "name": "Lingampally",
+    "lat": 17.4944145,
+    "lon": 78.315769
+  },
+  {
+    "stop_id": "S156",
+    "name": "Sheikpet Nala",
+    "lat": 17.4062472,
+    "lon": 78.4035656
+  },
+  {
+    "stop_id": "S157",
+    "name": "Salarjung Colony",
+    "lat": 17.3966902,
+    "lon": 78.422105
+  },
+  {
+    "stop_id": "S158",
+    "name": "Roda Mistry College",
+    "lat": 17.4279875,
+    "lon": 78.3751237
+  },
+  {
+    "stop_id": "S159",
+    "name": "Nanalnagar",
+    "lat": 17.3962507,
+    "lon": 78.4270607
+  },
+  {
+    "stop_id": "S160",
+    "name": "Narayanamma College",
+    "lat": 17.4098968,
+    "lon": 78.3982655
+  },
+  {
+    "stop_id": "S161",
+    "name": "Lingampalli Railway Station",
+    "lat": 17.4836188,
+    "lon": 78.3168445
+  },
+  {
+    "stop_id": "S162",
+    "name": "Gulmohar Park Colony",
+    "lat": 17.4779069,
+    "lon": 78.3199747
+  },
+  {
+    "stop_id": "S163",
+    "name": "HCU",
+    "lat": 17.4623917,
+    "lon": 78.3351475
+  },
+  {
+    "stop_id": "S164",
+    "name": "Telecom Nagar",
+    "lat": 17.4351458,
+    "lon": 78.367504
+  },
+  {
+    "stop_id": "S165",
+    "name": "HCU Small Gate",
+    "lat": 17.4567518,
+    "lon": 78.3399872
+  },
+  {
+    "stop_id": "S166",
+    "name": "Mehdipatnam",
+    "lat": 17.3947601,
+    "lon": 78.437989
+  },
+  {
+    "stop_id": "S167",
+    "name": "HCU Small Gate",
+    "lat": 17.4569204,
+    "lon": 78.3395849
+  },
+  {
+    "stop_id": "S168",
+    "name": "Gachibowli Stadium",
+    "lat": 17.4499788,
+    "lon": 78.3471358
+  },
+  {
+    "stop_id": "S169",
+    "name": "Cyberabad Police Commissionerate",
+    "lat": 17.4325045,
+    "lon": 78.3701881
+  },
+  {
+    "stop_id": "S170",
+    "name": "Cyberabad Police Commissionerate",
+    "lat": 17.4319465,
+    "lon": 78.3714355
+  },
+  {
+    "stop_id": "S171",
+    "name": "Sarojini Devi Eye Hospital",
+    "lat": 17.3978696,
+    "lon": 78.4434153
+  },
+  {
+    "stop_id": "S172",
+    "name": "Sarojini Devi Eye Hospital",
+    "lat": 17.3987911,
+    "lon": 78.4448449
+  },
+  {
+    "stop_id": "S173",
+    "name": "Mehdipatnam",
+    "lat": 17.3956739,
+    "lon": 78.4412338
+  },
+  {
+    "stop_id": "S174",
+    "name": "Mehdipatnam",
+    "lat": 17.3946168,
+    "lon": 78.4392847
+  },
+  {
+    "stop_id": "S175",
+    "name": "Lakdi-ka-pool",
+    "lat": 17.40478,
+    "lon": 78.4610966
+  },
+  {
+    "stop_id": "S176",
+    "name": "Chaderghat",
+    "lat": 17.3773493,
+    "lon": 78.4939991
+  },
+  {
+    "stop_id": "S177",
+    "name": "Chaderghat",
+    "lat": 17.3772086,
+    "lon": 78.4924782
+  },
+  {
+    "stop_id": "S178",
+    "name": "Moosarambagh",
+    "lat": 17.3696562,
+    "lon": 78.516472
+  },
+  {
+    "stop_id": "S179",
+    "name": "Chermas",
+    "lat": 17.3729311,
+    "lon": 78.5055031
+  },
+  {
+    "stop_id": "S180",
+    "name": "Dilsukhnagar",
+    "lat": 17.3687814,
+    "lon": 78.5240908
+  },
+  {
+    "stop_id": "S181",
+    "name": "LB Nagar City Bus Stop",
+    "lat": 17.3486646,
+    "lon": 78.5490541
+  },
+  {
+    "stop_id": "S182",
+    "name": "Dilsukhnagar",
+    "lat": 17.3684307,
+    "lon": 78.5234283
+  },
+  {
+    "stop_id": "S183",
+    "name": "Nalgonda X Roads",
+    "lat": 17.3753647,
+    "lon": 78.4985746
+  },
+  {
+    "stop_id": "S184",
+    "name": "LB Nagar Bus Stop",
+    "lat": 17.3462745,
+    "lon": 78.5516485
+  },
+  {
+    "stop_id": "S185",
+    "name": "Chaitanyapuri",
+    "lat": 17.3682899,
+    "lon": 78.5302921
+  },
+  {
+    "stop_id": "S186",
+    "name": "Fruit Market Bus Stop",
+    "lat": 17.3687195,
+    "lon": 78.5371176
+  },
+  {
+    "stop_id": "S187",
+    "name": "Malakpet Market",
+    "lat": 17.3743569,
+    "lon": 78.5032335
+  },
+  {
+    "stop_id": "S188",
+    "name": "Malakpet Bus Stop",
+    "lat": 17.3740315,
+    "lon": 78.499935
+  },
+  {
+    "stop_id": "S189",
+    "name": "Dilsukhnagar",
+    "lat": 17.3684129,
+    "lon": 78.5245602
+  },
+  {
+    "stop_id": "S190",
+    "name": "LB Nagar",
+    "lat": 17.3458535,
+    "lon": 78.5521977
+  },
+  {
+    "stop_id": "S191",
+    "name": "Stop 191",
+    "lat": 17.3700425,
+    "lon": 78.5139933
+  },
+  {
+    "stop_id": "S192",
+    "name": "Panama",
+    "lat": 17.3384414,
+    "lon": 78.5687124
+  },
+  {
+    "stop_id": "S193",
+    "name": "Panama",
+    "lat": 17.3379617,
+    "lon": 78.5690846
+  },
+  {
+    "stop_id": "S194",
+    "name": "Imlibun",
+    "lat": 17.3772034,
+    "lon": 78.4865157
+  },
+  {
+    "stop_id": "S195",
+    "name": "Imlibun",
+    "lat": 17.3766708,
+    "lon": 78.4862341
+  },
+  {
+    "stop_id": "S196",
+    "name": "TSRTC CBS BUS STAND",
+    "lat": 17.3784864,
+    "lon": 78.4817136
+  },
+  {
+    "stop_id": "S197",
+    "name": "TSRTC CBS BUS STAND",
+    "lat": 17.3779509,
+    "lon": 78.4813912
+  },
+  {
+    "stop_id": "S198",
+    "name": "Nampally",
+    "lat": 17.3954587,
+    "lon": 78.4705909
+  },
+  {
+    "stop_id": "S199",
+    "name": "Public Gardens",
+    "lat": 17.3968067,
+    "lon": 78.4708596
+  },
+  {
+    "stop_id": "S200",
+    "name": "Stop 200",
+    "lat": 17.400341,
+    "lon": 78.469852
+  },
+  {
+    "stop_id": "S201",
+    "name": "RBI",
+    "lat": 17.4058277,
+    "lon": 78.4674199
+  },
+  {
+    "stop_id": "S202",
+    "name": "Stop 202",
+    "lat": 17.4127086,
+    "lon": 78.4712086
+  },
+  {
+    "stop_id": "S203",
+    "name": "Koti Women's College",
+    "lat": 17.3850259,
+    "lon": 78.4884201
+  },
+  {
+    "stop_id": "S204",
+    "name": "Sarojini Devi Eye Hospital",
+    "lat": 17.3982153,
+    "lon": 78.4437748
+  },
+  {
+    "stop_id": "S205",
+    "name": "Masab Tank JNTU",
+    "lat": 17.4032751,
+    "lon": 78.4564939
+  },
+  {
+    "stop_id": "S206",
+    "name": "NMDC",
+    "lat": 17.398973,
+    "lon": 78.4495254
+  },
+  {
+    "stop_id": "S207",
+    "name": "Bank Street",
+    "lat": 17.3855251,
+    "lon": 78.4816314
+  },
+  {
+    "stop_id": "S208",
+    "name": "All India Radio",
+    "lat": 17.4019366,
+    "lon": 78.4691377
+  },
+  {
+    "stop_id": "S209",
+    "name": "Super Bazaar",
+    "lat": 17.3724345,
+    "lon": 78.5092099
+  },
+  {
+    "stop_id": "S210",
+    "name": "Dwaraka Nagar",
+    "lat": 17.3628066,
+    "lon": 78.5438533
+  },
+  {
+    "stop_id": "S211",
+    "name": "Vanasthalipuram",
+    "lat": 17.33679,
+    "lon": 78.5741408
+  },
+  {
+    "stop_id": "S212",
+    "name": "Bhagyalatha",
+    "lat": 17.3327985,
+    "lon": 78.5895099
+  },
+  {
+    "stop_id": "S213",
+    "name": "Hayathnagar Bus Depot",
+    "lat": 17.3301662,
+    "lon": 78.5941849
+  },
+  {
+    "stop_id": "S214",
+    "name": "RTC Colony",
+    "lat": 17.3283254,
+    "lon": 78.5995869
+  },
+  {
+    "stop_id": "S215",
+    "name": "Chintalkunta",
+    "lat": 17.3408353,
+    "lon": 78.5625858
+  },
+  {
+    "stop_id": "S216",
+    "name": "NTR Nagar Bus Stop",
+    "lat": 17.3548831,
+    "lon": 78.5458945
+  },
+  {
+    "stop_id": "S217",
+    "name": "Check Post",
+    "lat": 17.3425656,
+    "lon": 78.5564492
+  },
+  {
+    "stop_id": "S218",
+    "name": "Vanasthalipuram",
+    "lat": 17.3365928,
+    "lon": 78.5736125
+  },
+  {
+    "stop_id": "S219",
+    "name": "Dwaraka Nagar",
+    "lat": 17.3627858,
+    "lon": 78.5435264
+  },
+  {
+    "stop_id": "S220",
+    "name": "High Court Colony",
+    "lat": 17.3348161,
+    "lon": 78.5847838
+  },
+  {
+    "stop_id": "S221",
+    "name": "Stop 221",
+    "lat": 17.4584484,
+    "lon": 78.3673638
+  },
+  {
+    "stop_id": "S222",
+    "name": "Taranagar",
+    "lat": 17.489631,
+    "lon": 78.3193388
+  },
+  {
+    "stop_id": "S223",
+    "name": "Taranagar",
+    "lat": 17.4895282,
+    "lon": 78.3193095
+  },
+  {
+    "stop_id": "S224",
+    "name": "Gandhi Hospital",
+    "lat": 17.4241182,
+    "lon": 78.5019947
+  },
+  {
+    "stop_id": "S225",
+    "name": "Nizam College",
+    "lat": 17.3976544,
+    "lon": 78.4753629
+  },
+  {
+    "stop_id": "S226",
+    "name": "Abids Grammar School",
+    "lat": 17.3930165,
+    "lon": 78.4763954
+  },
+  {
+    "stop_id": "S227",
+    "name": "Stop 227",
+    "lat": 17.3307424,
+    "lon": 78.6076925
+  },
+  {
+    "stop_id": "S228",
+    "name": "Stop 228",
+    "lat": 17.3331355,
+    "lon": 78.6114941
+  },
+  {
+    "stop_id": "S229",
+    "name": "Mother Dairy",
+    "lat": 17.3361288,
+    "lon": 78.6143188
+  },
+  {
+    "stop_id": "S230",
+    "name": "Check Post",
+    "lat": 17.3430236,
+    "lon": 78.5563699
+  },
+  {
+    "stop_id": "S231",
+    "name": "Stop 231",
+    "lat": 17.336273,
+    "lon": 78.5787408
+  },
+  {
+    "stop_id": "S232",
+    "name": "Dilsukhnagar",
+    "lat": 17.3684433,
+    "lon": 78.5228597
+  },
+  {
+    "stop_id": "S233",
+    "name": "LB Nagar",
+    "lat": 17.3500083,
+    "lon": 78.5475524
+  },
+  {
+    "stop_id": "S234",
+    "name": "Doctors Colony Bus Stop",
+    "lat": 17.355619,
+    "lon": 78.5452928
+  },
+  {
+    "stop_id": "S235",
+    "name": "Bhagyalatha",
+    "lat": 17.3327498,
+    "lon": 78.5890542
+  },
+  {
+    "stop_id": "S236",
+    "name": "A.C. Guards",
+    "lat": 17.4028042,
+    "lon": 78.4594873
+  },
+  {
+    "stop_id": "S237",
+    "name": "NMDC",
+    "lat": 17.3987603,
+    "lon": 78.4494264
+  },
+  {
+    "stop_id": "S238",
+    "name": "Stop 238",
+    "lat": 17.4410694,
+    "lon": 78.4924461
+  },
+  {
+    "stop_id": "S239",
+    "name": "Paradise",
+    "lat": 17.4414634,
+    "lon": 78.4877909
+  },
+  {
+    "stop_id": "S240",
+    "name": "Bandlaguda",
+    "lat": 17.3595939,
+    "lon": 78.3876922
+  },
+  {
+    "stop_id": "S241",
+    "name": "Chilkur Balaji Temple",
+    "lat": 17.3570645,
+    "lon": 78.2999547
+  },
+  {
+    "stop_id": "S242",
+    "name": "Stop 242",
+    "lat": 17.4317624,
+    "lon": 78.4475007
+  },
+  {
+    "stop_id": "S243",
+    "name": "Bandlaguda",
+    "lat": 17.3714708,
+    "lon": 78.5694911
+  },
+  {
+    "stop_id": "S244",
+    "name": "Nagole to Bandlaguda",
+    "lat": 17.3765096,
+    "lon": 78.5589077
+  },
+  {
+    "stop_id": "S245",
+    "name": "Nagole to Kothapet",
+    "lat": 17.3762526,
+    "lon": 78.557441
+  },
+  {
+    "stop_id": "S246",
+    "name": "Nagole X Road",
+    "lat": 17.3774867,
+    "lon": 78.5577208
+  },
+  {
+    "stop_id": "S247",
+    "name": "JNTU Bus Stop",
+    "lat": 17.496407,
+    "lon": 78.3944344
+  },
+  {
+    "stop_id": "S248",
+    "name": "Medical College Bus Stop",
+    "lat": 17.3831041,
+    "lon": 78.4828127
+  },
+  {
+    "stop_id": "S249",
+    "name": "Alkapuri Bus Stop",
+    "lat": 17.3651918,
+    "lon": 78.5568927
+  },
+  {
+    "stop_id": "S250",
+    "name": "Moosarambagh Bus Stop",
+    "lat": 17.3765437,
+    "lon": 78.5145697
+  },
+  {
+    "stop_id": "S251",
+    "name": "Water Tank",
+    "lat": 17.4190085,
+    "lon": 78.4479002
+  },
+  {
+    "stop_id": "S252",
+    "name": "Stop 252",
+    "lat": 17.2618802,
+    "lon": 78.3879646
+  },
+  {
+    "stop_id": "S253",
+    "name": "Secunderabad",
+    "lat": 17.476244,
+    "lon": 78.5104189
+  },
+  {
+    "stop_id": "S254",
+    "name": "Wellington Road",
+    "lat": 17.4688315,
+    "lon": 78.5082869
+  },
+  {
+    "stop_id": "S255",
+    "name": "GVK One",
+    "lat": 17.4192552,
+    "lon": 78.4479864
+  },
+  {
+    "stop_id": "S256",
+    "name": "City Center",
+    "lat": 17.4158228,
+    "lon": 78.4489433
+  },
+  {
+    "stop_id": "S257",
+    "name": "Stop 257",
+    "lat": 17.4112354,
+    "lon": 78.4829745
+  },
+  {
+    "stop_id": "S258",
+    "name": "Stop 258",
+    "lat": 17.4107607,
+    "lon": 78.4764285
+  },
+  {
+    "stop_id": "S259",
+    "name": "Uppal 'X' Roads",
+    "lat": 17.4007724,
+    "lon": 78.5604947
+  },
+  {
+    "stop_id": "S260",
+    "name": "Uppal",
+    "lat": 17.4016547,
+    "lon": 78.5688139
+  },
+  {
+    "stop_id": "S261",
+    "name": "Uppal 'X' Road",
+    "lat": 17.4016983,
+    "lon": 78.56019
+  },
+  {
+    "stop_id": "S262",
+    "name": "Uppal Circle",
+    "lat": 17.4013224,
+    "lon": 78.5596644
+  },
+  {
+    "stop_id": "S263",
+    "name": "Mythrinagar Bus Stop",
+    "lat": 17.4951062,
+    "lon": 78.3456791
+  },
+  {
+    "stop_id": "S264",
+    "name": "Allwyn Colony Bus Stop",
+    "lat": 17.4937783,
+    "lon": 78.3497281
+  },
+  {
+    "stop_id": "S265",
+    "name": "Radhika",
+    "lat": 17.4771342,
+    "lon": 78.563299
+  },
+  {
+    "stop_id": "S266",
+    "name": "Stop 266",
+    "lat": 17.4366898,
+    "lon": 78.4328757
+  },
+  {
+    "stop_id": "S267",
+    "name": "APSRTC Pushpak",
+    "lat": 17.4084692,
+    "lon": 78.4735778
+  },
+  {
+    "stop_id": "S268",
+    "name": "Chey Number",
+    "lat": 17.3911811,
+    "lon": 78.5108995
+  },
+  {
+    "stop_id": "S269",
+    "name": "6 Number",
+    "lat": 17.3918602,
+    "lon": 78.5107867
+  },
+  {
+    "stop_id": "S270",
+    "name": "Syndicate Bank Bus Stop",
+    "lat": 17.3973693,
+    "lon": 78.5120339
+  },
+  {
+    "stop_id": "S271",
+    "name": "Syndicate Bank Bus Stop",
+    "lat": 17.3983884,
+    "lon": 78.5123783
+  },
+  {
+    "stop_id": "S272",
+    "name": "church bus stop",
+    "lat": 17.4990474,
+    "lon": 78.3083811
+  },
+  {
+    "stop_id": "S273",
+    "name": "Temple Bus Stop",
+    "lat": 17.4999711,
+    "lon": 78.2987109
+  },
+  {
+    "stop_id": "S274",
+    "name": "ntr stadium bus stop",
+    "lat": 17.4108441,
+    "lon": 78.4849278
+  },
+  {
+    "stop_id": "S275",
+    "name": "Suchitra Bus Stop",
+    "lat": 17.4995311,
+    "lon": 78.4765646
+  },
+  {
+    "stop_id": "S276",
+    "name": "dubai gate bus stop",
+    "lat": 17.4704621,
+    "lon": 78.4811663
+  },
+  {
+    "stop_id": "S277",
+    "name": "hill fort",
+    "lat": 17.4050023,
+    "lon": 78.476374
+  },
+  {
+    "stop_id": "S278",
+    "name": "Assembly",
+    "lat": 17.4005079,
+    "lon": 78.4696684
+  },
+  {
+    "stop_id": "S279",
+    "name": "Ranigunj",
+    "lat": 17.4294982,
+    "lon": 78.4881643
+  },
+  {
+    "stop_id": "S280",
+    "name": "James Street, M.G. Road",
+    "lat": 17.4354446,
+    "lon": 78.4883801
+  },
+  {
+    "stop_id": "S281",
+    "name": "bible house",
+    "lat": 17.430425,
+    "lon": 78.4921823
+  },
+  {
+    "stop_id": "S282",
+    "name": "Basheerbagh",
+    "lat": 17.4050023,
+    "lon": 78.4769104
+  },
+  {
+    "stop_id": "S283",
+    "name": "Paradise",
+    "lat": 17.443076,
+    "lon": 78.4862636
+  },
+  {
+    "stop_id": "S284",
+    "name": "Paradise",
+    "lat": 17.440557,
+    "lon": 78.4881924
+  },
+  {
+    "stop_id": "S285",
+    "name": "khairatabad",
+    "lat": 17.413593,
+    "lon": 78.4609563
+  },
+  {
+    "stop_id": "S286",
+    "name": "Mahavir Hospital",
+    "lat": 17.4029577,
+    "lon": 78.4583929
+  },
+  {
+    "stop_id": "S287",
+    "name": "ashok nagar",
+    "lat": 17.4089749,
+    "lon": 78.4898639
+  },
+  {
+    "stop_id": "S288",
+    "name": "amber pet",
+    "lat": 17.391604,
+    "lon": 78.5162173
+  },
+  {
+    "stop_id": "S289",
+    "name": "Anjaya Nagar",
+    "lat": 17.4521229,
+    "lon": 78.3637319
+  },
+  {
+    "stop_id": "S290",
+    "name": "Ashok Nagar",
+    "lat": 17.4084652,
+    "lon": 78.4896646
+  },
+  {
+    "stop_id": "S291",
+    "name": "Gandhi Nagar",
+    "lat": 17.4126307,
+    "lon": 78.4885557
+  },
+  {
+    "stop_id": "S292",
+    "name": "Stop 292",
+    "lat": 17.2973001,
+    "lon": 78.4186127
+  },
+  {
+    "stop_id": "S293",
+    "name": "Anand Theatre",
+    "lat": 17.4432667,
+    "lon": 78.4821046
+  },
+  {
+    "stop_id": "S294",
+    "name": "Stop 294",
+    "lat": 17.482051,
+    "lon": 78.5372675
+  },
+  {
+    "stop_id": "S295",
+    "name": "Stop 295",
+    "lat": 17.4822594,
+    "lon": 78.5372412
+  },
+  {
+    "stop_id": "S296",
+    "name": "Sai Baba Temple, Gudimalkapur",
+    "lat": 17.3865919,
+    "lon": 78.4398828
+  },
+  {
+    "stop_id": "S297",
+    "name": "Uppal Ring Road",
+    "lat": 17.4025065,
+    "lon": 78.5594709
+  },
+  {
+    "stop_id": "S298",
+    "name": "Shobana Bus Stand",
+    "lat": 17.4636333,
+    "lon": 78.4525943
+  },
+  {
+    "stop_id": "S299",
+    "name": "Stop 299",
+    "lat": 17.3219774,
+    "lon": 78.4017154
+  },
+  {
+    "stop_id": "S300",
+    "name": "Yousufguda basti",
+    "lat": 17.4365057,
+    "lon": 78.4339221
+  },
+  {
+    "stop_id": "S301",
+    "name": "Yousufguda Basti stop",
+    "lat": 17.4367359,
+    "lon": 78.4321998
+  },
+  {
+    "stop_id": "S302",
+    "name": "Yousufguda checkpost",
+    "lat": 17.4365545,
+    "lon": 78.4282035
+  },
+  {
+    "stop_id": "S303",
+    "name": "Yousufguda checkpost",
+    "lat": 17.4365604,
+    "lon": 78.427961
+  },
+  {
+    "stop_id": "S304",
+    "name": "Santoshnagar",
+    "lat": 17.3467185,
+    "lon": 78.5081947
+  },
+  {
+    "stop_id": "S305",
+    "name": "JNTU bus stop",
+    "lat": 17.4964098,
+    "lon": 78.3955361
+  },
+  {
+    "stop_id": "S306",
+    "name": "Kalyan Nagar Jn Bustop",
+    "lat": 17.4442963,
+    "lon": 78.4331967
+  },
+  {
+    "stop_id": "S307",
+    "name": "Stop 307",
+    "lat": 17.4305963,
+    "lon": 78.4209562
+  },
+  {
+    "stop_id": "S308",
+    "name": "Secretriat Bus Stop",
+    "lat": 17.4083494,
+    "lon": 78.4720874
+  },
+  {
+    "stop_id": "S309",
+    "name": "Liberty",
+    "lat": 17.407482,
+    "lon": 78.4766011
+  },
+  {
+    "stop_id": "S310",
+    "name": "Liberty",
+    "lat": 17.4071019,
+    "lon": 78.4762585
+  },
+  {
+    "stop_id": "S311",
+    "name": "Liberty",
+    "lat": 17.4055586,
+    "lon": 78.4770552
+  },
+  {
+    "stop_id": "S312",
+    "name": "M.I.G bus stop",
+    "lat": 17.4874175,
+    "lon": 78.3913986
+  },
+  {
+    "stop_id": "S313",
+    "name": "hitex bus stop",
+    "lat": 17.4560989,
+    "lon": 78.3774684
+  },
+  {
+    "stop_id": "S314",
+    "name": "Stop 314",
+    "lat": 17.4262292,
+    "lon": 78.4153658
+  },
+  {
+    "stop_id": "S315",
+    "name": "Stop 315",
+    "lat": 17.427057,
+    "lon": 78.4157649
+  },
+  {
+    "stop_id": "S316",
+    "name": "Stop 316",
+    "lat": 17.4309126,
+    "lon": 78.420884
+  },
+  {
+    "stop_id": "S317",
+    "name": "Kukatpally Bus Stop",
+    "lat": 17.4835823,
+    "lon": 78.4131832
+  },
+  {
+    "stop_id": "S318",
+    "name": "as rao nagar",
+    "lat": 17.4795171,
+    "lon": 78.5582876
+  },
+  {
+    "stop_id": "S319",
+    "name": "Stop 319",
+    "lat": 17.4279255,
+    "lon": 78.3413112
+  },
+  {
+    "stop_id": "S320",
+    "name": "Stop 320",
+    "lat": 17.3943895,
+    "lon": 78.434545
+  },
+  {
+    "stop_id": "S321",
+    "name": "Stop 321",
+    "lat": 17.5030312,
+    "lon": 78.5084751
+  },
+  {
+    "stop_id": "S322",
+    "name": "citizens colony bus stop",
+    "lat": 17.5132576,
+    "lon": 78.4937689
+  },
+  {
+    "stop_id": "S323",
+    "name": "IG Statue Bus stop",
+    "lat": 17.5086672,
+    "lon": 78.5036851
+  },
+  {
+    "stop_id": "S324",
+    "name": "Subash Nagar bus stop",
+    "lat": 17.485212,
+    "lon": 78.502751
+  },
+  {
+    "stop_id": "S325",
+    "name": "Rajiv Nagar, Sai Baba temple bus stop",
+    "lat": 17.489498,
+    "lon": 78.5046124
+  },
+  {
+    "stop_id": "S326",
+    "name": "Bhoodevi Nagar Bus Stop",
+    "lat": 17.4915113,
+    "lon": 78.5030996
+  },
+  {
+    "stop_id": "S327",
+    "name": "Bhoodevi nagar junction bus stop",
+    "lat": 17.4919718,
+    "lon": 78.5049825
+  },
+  {
+    "stop_id": "S328",
+    "name": "Stop 328",
+    "lat": 17.4831554,
+    "lon": 78.4996168
+  },
+  {
+    "stop_id": "S329",
+    "name": "Lakdawala Bus Stop",
+    "lat": 17.512541,
+    "lon": 78.5202577
+  },
+  {
+    "stop_id": "S330",
+    "name": "Alwal Bus stop",
+    "lat": 17.5015161,
+    "lon": 78.5141154
+  },
+  {
+    "stop_id": "S331",
+    "name": "Stop 331",
+    "lat": 17.3746373,
+    "lon": 78.5606156
+  },
+  {
+    "stop_id": "S332",
+    "name": "Stop 332",
+    "lat": 17.282782,
+    "lon": 78.4116236
+  },
+  {
+    "stop_id": "S333",
+    "name": "Lingampally Railway Station",
+    "lat": 17.4829088,
+    "lon": 78.3203266
+  },
+  {
+    "stop_id": "S334",
+    "name": "Lingampally Railway Station",
+    "lat": 17.4830399,
+    "lon": 78.3205354
+  },
+  {
+    "stop_id": "S335",
+    "name": "Prakash Nagar",
+    "lat": 17.4443086,
+    "lon": 78.4722788
+  },
+  {
+    "stop_id": "S336",
+    "name": "Prakash Nagar",
+    "lat": 17.4440393,
+    "lon": 78.4713855
+  },
+  {
+    "stop_id": "S337",
+    "name": "dulapally",
+    "lat": 17.5467126,
+    "lon": 78.4668466
+  },
+  {
+    "stop_id": "S338",
+    "name": "Mehdipatnam Bus Stop",
+    "lat": 17.395382,
+    "lon": 78.4406639
+  },
+  {
+    "stop_id": "S339",
+    "name": "Greenspace Prime",
+    "lat": 17.4026879,
+    "lon": 78.3657916
+  },
+  {
+    "stop_id": "S340",
+    "name": "Stop 340",
+    "lat": 17.4082906,
+    "lon": 78.4731332
+  },
+  {
+    "stop_id": "S341",
+    "name": "Stop 341",
+    "lat": 17.4100969,
+    "lon": 78.4760235
+  },
+  {
+    "stop_id": "S342",
+    "name": "Stop 342",
+    "lat": 17.4311888,
+    "lon": 78.4881289
+  },
+  {
+    "stop_id": "S343",
+    "name": "Stop 343",
+    "lat": 17.3735421,
+    "lon": 78.4759411
+  },
+  {
+    "stop_id": "S344",
+    "name": "Stop 344",
+    "lat": 17.4215893,
+    "lon": 78.4845915
+  },
+  {
+    "stop_id": "S345",
+    "name": "Stop 345",
+    "lat": 17.371411,
+    "lon": 78.478087
+  },
+  {
+    "stop_id": "S346",
+    "name": "Stop 346",
+    "lat": 17.371952,
+    "lon": 78.4801645
+  },
+  {
+    "stop_id": "S347",
+    "name": "Stop 347",
+    "lat": 17.4339129,
+    "lon": 78.4558023
+  },
+  {
+    "stop_id": "S348",
+    "name": "Panjagutta",
+    "lat": 17.4269282,
+    "lon": 78.4527079
+  },
+  {
+    "stop_id": "S349",
+    "name": "Paradise Bus Stop",
+    "lat": 17.4427338,
+    "lon": 78.4874255
+  },
+  {
+    "stop_id": "S350",
+    "name": "maisammaguda",
+    "lat": 17.5622944,
+    "lon": 78.4538019
+  },
+  {
+    "stop_id": "S351",
+    "name": "Apprell Export Park",
+    "lat": 17.5637645,
+    "lon": 78.466594
+  },
+  {
+    "stop_id": "S352",
+    "name": "kompally",
+    "lat": 17.5447029,
+    "lon": 78.491842
+  },
+  {
+    "stop_id": "S353",
+    "name": "gundlapochampally",
+    "lat": 17.568913,
+    "lon": 78.480271
+  },
+  {
+    "stop_id": "S354",
+    "name": "kompally",
+    "lat": 17.5401462,
+    "lon": 78.4909369
+  },
+  {
+    "stop_id": "S355",
+    "name": "kandlakoya",
+    "lat": 17.5916202,
+    "lon": 78.4928378
+  },
+  {
+    "stop_id": "S356",
+    "name": "jinnaram",
+    "lat": 17.6328023,
+    "lon": 78.3300052
+  },
+  {
+    "stop_id": "S357",
+    "name": "vavilala",
+    "lat": 17.6205361,
+    "lon": 78.3529944
+  },
+  {
+    "stop_id": "S358",
+    "name": "devaryamjal",
+    "lat": 17.5677743,
+    "lon": 78.5230714
+  },
+  {
+    "stop_id": "S359",
+    "name": "jangampet",
+    "lat": 17.6282646,
+    "lon": 78.3525162
+  },
+  {
+    "stop_id": "S360",
+    "name": "dommarapochampally",
+    "lat": 17.5913177,
+    "lon": 78.4181208
+  },
+  {
+    "stop_id": "S361",
+    "name": "bowrampet",
+    "lat": 17.5615155,
+    "lon": 78.4032321
+  },
+  {
+    "stop_id": "S362",
+    "name": "pothayapally",
+    "lat": 17.5673475,
+    "lon": 78.5394093
+  },
+  {
+    "stop_id": "S363",
+    "name": "bahdurpally village",
+    "lat": 17.5598956,
+    "lon": 78.438233
+  },
+  {
+    "stop_id": "S364",
+    "name": "dundigal",
+    "lat": 17.6069417,
+    "lon": 78.4159776
+  },
+  {
+    "stop_id": "S365",
+    "name": "Nizampet X road bus stop",
+    "lat": 17.4985768,
+    "lon": 78.3909239
+  },
+  {
+    "stop_id": "S366",
+    "name": "railaapoor",
+    "lat": 17.63119,
+    "lon": 78.4442557
+  },
+  {
+    "stop_id": "S367",
+    "name": "Ayodhya x road",
+    "lat": 17.5892934,
+    "lon": 78.4733621
+  },
+  {
+    "stop_id": "S368",
+    "name": "BITS Pilani",
+    "lat": 17.547185,
+    "lon": 78.572791
+  },
+  {
+    "stop_id": "S369",
+    "name": "Yadhagiripalli X Road",
+    "lat": 17.5380295,
+    "lon": 78.6309349
+  },
+  {
+    "stop_id": "S370",
+    "name": "Bundlaguda",
+    "lat": 17.5012729,
+    "lon": 78.622335
+  },
+  {
+    "stop_id": "S371",
+    "name": "Chiryala",
+    "lat": 17.5199382,
+    "lon": 78.6279076
+  },
+  {
+    "stop_id": "S372",
+    "name": "Chiryala",
+    "lat": 17.5150778,
+    "lon": 78.6272162
+  },
+  {
+    "stop_id": "S373",
+    "name": "Boduppal NTR Statue;NTR Statue",
+    "lat": 17.412183,
+    "lon": 78.5856175
+  },
+  {
+    "stop_id": "S374",
+    "name": "Stop 374",
+    "lat": 17.4059854,
+    "lon": 78.4896534
+  },
+  {
+    "stop_id": "S375",
+    "name": "Stop 375",
+    "lat": 17.4014511,
+    "lon": 78.4888654
+  },
+  {
+    "stop_id": "S376",
+    "name": "Narayanaguda bus stop",
+    "lat": 17.4004311,
+    "lon": 78.4894669
+  },
+  {
+    "stop_id": "S377",
+    "name": "Stop 377",
+    "lat": 17.3995935,
+    "lon": 78.4864778
+  },
+  {
+    "stop_id": "S378",
+    "name": "Uppal to secundrabad bustop",
+    "lat": 17.4020163,
+    "lon": 78.5597253
+  },
+  {
+    "stop_id": "S379",
+    "name": "Stop 379",
+    "lat": 17.4059013,
+    "lon": 78.4896108
+  },
+  {
+    "stop_id": "S380",
+    "name": "Ramantapur studio bustop",
+    "lat": 17.3965091,
+    "lon": 78.5293385
+  },
+  {
+    "stop_id": "S381",
+    "name": "Stop 381",
+    "lat": 17.3988371,
+    "lon": 78.4940284
+  },
+  {
+    "stop_id": "S382",
+    "name": "Lb Nagar to Uppal",
+    "lat": 17.3473025,
+    "lon": 78.5515143
+  },
+  {
+    "stop_id": "S383",
+    "name": "Lb Nagar City Bus Stop",
+    "lat": 17.3472324,
+    "lon": 78.5498097
+  },
+  {
+    "stop_id": "S384",
+    "name": "Kamineni bus stop",
+    "lat": 17.3525557,
+    "lon": 78.555611
+  },
+  {
+    "stop_id": "S385",
+    "name": "Kamineni to Uppal",
+    "lat": 17.3531037,
+    "lon": 78.5555993
+  },
+  {
+    "stop_id": "S386",
+    "name": "Shamshabad bus stop",
+    "lat": 17.2625542,
+    "lon": 78.3876763
+  },
+  {
+    "stop_id": "S387",
+    "name": "NGO'S bus stop",
+    "lat": 17.3246469,
+    "lon": 78.5661745
+  },
+  {
+    "stop_id": "S388",
+    "name": "Rasoolpura",
+    "lat": 17.4436129,
+    "lon": 78.4748667
+  },
+  {
+    "stop_id": "S389",
+    "name": "Lingampally",
+    "lat": 17.4951023,
+    "lon": 78.3159771
+  },
+  {
+    "stop_id": "S390",
+    "name": "Gangaram",
+    "lat": 17.4951629,
+    "lon": 78.3326521
+  },
+  {
+    "stop_id": "S391",
+    "name": "Stop 391",
+    "lat": 17.3553252,
+    "lon": 78.4702895
+  },
+  {
+    "stop_id": "S392",
+    "name": "Gangaram",
+    "lat": 17.4954155,
+    "lon": 78.3323683
+  },
+  {
+    "stop_id": "S393",
+    "name": "Madhapur-Hi Tech city-Kondapur",
+    "lat": 17.4395401,
+    "lon": 78.3959296
+  },
+  {
+    "stop_id": "S394",
+    "name": "Jaipuri Last bus stop",
+    "lat": 17.3792607,
+    "lon": 78.5724297
+  },
+  {
+    "stop_id": "S395",
+    "name": "Saidabad bus stop",
+    "lat": 17.3603573,
+    "lon": 78.5045666
+  },
+  {
+    "stop_id": "S396",
+    "name": "Virat Nagar and New Maruthi Nagar Bus Stop",
+    "lat": 17.3385466,
+    "lon": 78.5217052
+  },
+  {
+    "stop_id": "S397",
+    "name": "Chanikyapuri Colony Bus Stop",
+    "lat": 17.3627658,
+    "lon": 78.5638404
+  },
+  {
+    "stop_id": "S398",
+    "name": "Bowenpally checkpost Bus Stop",
+    "lat": 17.4754007,
+    "lon": 78.473989
+  },
+  {
+    "stop_id": "S399",
+    "name": "Masab Tank Bus Stop",
+    "lat": 17.4041862,
+    "lon": 78.4522692
+  },
+  {
+    "stop_id": "S400",
+    "name": "Bustop",
+    "lat": 17.4455592,
+    "lon": 78.3519362
+  },
+  {
+    "stop_id": "S401",
+    "name": "Bus stop 2",
+    "lat": 17.4322281,
+    "lon": 78.3785652
+  },
+  {
+    "stop_id": "S402",
+    "name": "IIIT Bus stop1",
+    "lat": 17.4462582,
+    "lon": 78.351225
+  },
+  {
+    "stop_id": "S403",
+    "name": "Gachibowli flyover bustop",
+    "lat": 17.4408024,
+    "lon": 78.3607926
+  },
+  {
+    "stop_id": "S404",
+    "name": "Stop 404",
+    "lat": 17.439886,
+    "lon": 78.363404
+  },
+  {
+    "stop_id": "S405",
+    "name": "Shaikpet Dargah",
+    "lat": 17.4129007,
+    "lon": 78.3951039
+  },
+  {
+    "stop_id": "S406",
+    "name": "HPS Bus Stop",
+    "lat": 17.3996282,
+    "lon": 78.5374457
+  },
+  {
+    "stop_id": "S407",
+    "name": "Uppal 'X' Road Bus Stop",
+    "lat": 17.401622,
+    "lon": 78.5596839
+  },
+  {
+    "stop_id": "S408",
+    "name": "Airport bus stop",
+    "lat": 17.4026831,
+    "lon": 78.4579947
+  },
+  {
+    "stop_id": "S409",
+    "name": "Domalguada Bus top",
+    "lat": 17.4100351,
+    "lon": 78.4865195
+  },
+  {
+    "stop_id": "S410",
+    "name": "Jamestreet bus stop",
+    "lat": 17.4358309,
+    "lon": 78.488637
+  },
+  {
+    "stop_id": "S411",
+    "name": "Stop 411",
+    "lat": 17.4201797,
+    "lon": 78.5167256
+  },
+  {
+    "stop_id": "S412",
+    "name": "Stop 412",
+    "lat": 17.4197433,
+    "lon": 78.5173626
+  },
+  {
+    "stop_id": "S413",
+    "name": "Stop 413",
+    "lat": 17.4176627,
+    "lon": 78.5193059
+  },
+  {
+    "stop_id": "S414",
+    "name": "Stop 414",
+    "lat": 17.4177407,
+    "lon": 78.5194239
+  },
+  {
+    "stop_id": "S415",
+    "name": "Stop 415",
+    "lat": 17.4064622,
+    "lon": 78.3762297
+  },
+  {
+    "stop_id": "S416",
+    "name": "chintal bus stop",
+    "lat": 17.4948321,
+    "lon": 78.4519579
+  },
+  {
+    "stop_id": "S417",
+    "name": "Bus Parking 2",
+    "lat": 17.5970849,
+    "lon": 78.4432861
+  },
+  {
+    "stop_id": "S418",
+    "name": "Gaddapotharam",
+    "lat": 17.6059354,
+    "lon": 78.3755356
+  },
+  {
+    "stop_id": "S419",
+    "name": "kamala nagar bus stop",
+    "lat": 17.3297742,
+    "lon": 78.5791414
+  },
+  {
+    "stop_id": "S420",
+    "name": "Madhapur Image Gardens",
+    "lat": 17.4462587,
+    "lon": 78.3853261
+  },
+  {
+    "stop_id": "S421",
+    "name": "Madhapur Image Gardens",
+    "lat": 17.4461737,
+    "lon": 78.3850424
+  },
+  {
+    "stop_id": "S422",
+    "name": "TSRTC BUS STAND , HAYATNAGAR",
+    "lat": 17.3274768,
+    "lon": 78.6048385
+  },
+  {
+    "stop_id": "S423",
+    "name": "Stop 423",
+    "lat": 17.4623757,
+    "lon": 78.5616593
+  },
+  {
+    "stop_id": "S424",
+    "name": "Bandlaguda Bus Stop",
+    "lat": 17.3595923,
+    "lon": 78.3880368
+  },
+  {
+    "stop_id": "S425",
+    "name": "Fever Hospital",
+    "lat": 17.3954325,
+    "lon": 78.5024824
+  },
+  {
+    "stop_id": "S426",
+    "name": "Stop 426",
+    "lat": 17.3526315,
+    "lon": 78.3769932
+  },
+  {
+    "stop_id": "S427",
+    "name": "Stop 427",
+    "lat": 17.3520925,
+    "lon": 78.3764917
+  },
+  {
+    "stop_id": "S428",
+    "name": "Stop 428",
+    "lat": 17.4949272,
+    "lon": 78.3945966
+  },
+  {
+    "stop_id": "S429",
+    "name": "Ganesh nagar bustop",
+    "lat": 17.4909298,
+    "lon": 78.4510134
+  },
+  {
+    "stop_id": "S430",
+    "name": "idpl bustop",
+    "lat": 17.4875009,
+    "lon": 78.4500601
+  },
+  {
+    "stop_id": "S431",
+    "name": "Chandanagar Bus Stop",
+    "lat": 17.4950021,
+    "lon": 78.3229702
+  },
+  {
+    "stop_id": "S432",
+    "name": "Chandanagar Bus stop",
+    "lat": 17.4951337,
+    "lon": 78.3229158
+  },
+  {
+    "stop_id": "S433",
+    "name": "Hemanagar Bus Stop",
+    "lat": 17.4230516,
+    "lon": 78.5666056
+  },
+  {
+    "stop_id": "S434",
+    "name": "Stop 434",
+    "lat": 17.3880126,
+    "lon": 78.471976
+  },
+  {
+    "stop_id": "S435",
+    "name": "Chilkalguda bus Stop",
+    "lat": 17.4295326,
+    "lon": 78.5127952
+  },
+  {
+    "stop_id": "S436",
+    "name": "Namalagundu Bus Stop",
+    "lat": 17.4252981,
+    "lon": 78.5148611
+  },
+  {
+    "stop_id": "S437",
+    "name": "Seethafalmandi Bus Stop",
+    "lat": 17.4275784,
+    "lon": 78.5174116
+  },
+  {
+    "stop_id": "S438",
+    "name": "Namalagundu Bus Stop",
+    "lat": 17.422247,
+    "lon": 78.5169263
+  },
+  {
+    "stop_id": "S439",
+    "name": "Jeedimetla Bus Stop",
+    "lat": 17.5266275,
+    "lon": 78.44044
+  },
+  {
+    "stop_id": "S440",
+    "name": "Substation Bus Stop",
+    "lat": 17.522617,
+    "lon": 78.4438035
+  },
+  {
+    "stop_id": "S441",
+    "name": "Clock Tower Circle Bus",
+    "lat": 17.440645,
+    "lon": 78.4971759
+  },
+  {
+    "stop_id": "S442",
+    "name": "Secunderabad Uppal Bus Stop",
+    "lat": 17.4369415,
+    "lon": 78.5052015
+  },
+  {
+    "stop_id": "S443",
+    "name": "Kothaguda",
+    "lat": 17.4588091,
+    "lon": 78.3672857
+  },
+  {
+    "stop_id": "S444",
+    "name": "kolafarm",
+    "lat": 17.5130853,
+    "lon": 78.5544977
+  },
+  {
+    "stop_id": "S445",
+    "name": "Krupa Complex",
+    "lat": 17.4648077,
+    "lon": 78.5386272
+  },
+  {
+    "stop_id": "S446",
+    "name": "Muudu Gudulu",
+    "lat": 17.4717388,
+    "lon": 78.5390215
+  },
+  {
+    "stop_id": "S447",
+    "name": "Neredmet Old PS",
+    "lat": 17.4747526,
+    "lon": 78.5380458
+  },
+  {
+    "stop_id": "S448",
+    "name": "Janapriya Bus stop",
+    "lat": 17.4420476,
+    "lon": 78.5661125
+  },
+  {
+    "stop_id": "S449",
+    "name": "Deepthi Sri Nagar",
+    "lat": 17.4953362,
+    "lon": 78.3405813
+  },
+  {
+    "stop_id": "S450",
+    "name": "lingampally main bus stop",
+    "lat": 17.4947084,
+    "lon": 78.3168984
+  },
+  {
+    "stop_id": "S451",
+    "name": "A.S. Rao Nagar",
+    "lat": 17.4799497,
+    "lon": 78.5568336
+  },
+  {
+    "stop_id": "S452",
+    "name": "Radhika Busstop",
+    "lat": 17.4775467,
+    "lon": 78.5624222
+  },
+  {
+    "stop_id": "S453",
+    "name": "Ameerpet",
+    "lat": 17.4346781,
+    "lon": 78.4491099
+  },
+  {
+    "stop_id": "S454",
+    "name": "almasguda bus stop",
+    "lat": 17.3091766,
+    "lon": 78.5331199
+  },
+  {
+    "stop_id": "S455",
+    "name": "police line bus stop",
+    "lat": 17.4368679,
+    "lon": 78.4235911
+  },
+  {
+    "stop_id": "S456",
+    "name": "Beeramguda busstop",
+    "lat": 17.5092834,
+    "lon": 78.3001936
+  },
+  {
+    "stop_id": "S457",
+    "name": "medipatnam bus stop",
+    "lat": 17.3952865,
+    "lon": 78.4352397
+  },
+  {
+    "stop_id": "S458",
+    "name": "Jaipuri colony bus stop",
+    "lat": 17.371557,
+    "lon": 78.5694429
+  },
+  {
+    "stop_id": "S459",
+    "name": "Subhadranagar Bus Stop",
+    "lat": 17.3287721,
+    "lon": 78.5835166
+  },
+  {
+    "stop_id": "S460",
+    "name": "Allwyn colony",
+    "lat": 17.5018822,
+    "lon": 78.4189175
+  },
+  {
+    "stop_id": "S461",
+    "name": "kushaiguda",
+    "lat": 17.4803341,
+    "lon": 78.5749601
+  },
+  {
+    "stop_id": "S462",
+    "name": "Nagaram Bus stop",
+    "lat": 17.4879595,
+    "lon": 78.6008563
+  },
+  {
+    "stop_id": "S463",
+    "name": "Stop 463",
+    "lat": 17.404087,
+    "lon": 78.503738
+  },
+  {
+    "stop_id": "S464",
+    "name": "Stop 464",
+    "lat": 17.4090807,
+    "lon": 78.5087684
+  },
+  {
+    "stop_id": "S465",
+    "name": "shanker mutt bus stop",
+    "lat": 17.4008542,
+    "lon": 78.5080708
+  },
+  {
+    "stop_id": "S466",
+    "name": "Stop 466",
+    "lat": 17.409455,
+    "lon": 78.5066988
+  },
+  {
+    "stop_id": "S467",
+    "name": "dsnr",
+    "lat": 17.3761325,
+    "lon": 78.5569899
+  },
+  {
+    "stop_id": "S468",
+    "name": "Stop 468",
+    "lat": 17.3511191,
+    "lon": 78.3581379
+  },
+  {
+    "stop_id": "S469",
+    "name": "Stop 469",
+    "lat": 17.350817,
+    "lon": 78.3580414
+  },
+  {
+    "stop_id": "S470",
+    "name": "Stop 470",
+    "lat": 17.3393362,
+    "lon": 78.3619614
+  },
+  {
+    "stop_id": "S471",
+    "name": "Stop 471",
+    "lat": 17.3394137,
+    "lon": 78.3619584
+  },
+  {
+    "stop_id": "S472",
+    "name": "Stop 472",
+    "lat": 17.3387322,
+    "lon": 78.3637925
+  },
+  {
+    "stop_id": "S473",
+    "name": "Stop 473",
+    "lat": 17.3399442,
+    "lon": 78.36871
+  },
+  {
+    "stop_id": "S474",
+    "name": "Stop 474",
+    "lat": 17.341405,
+    "lon": 78.3727709
+  },
+  {
+    "stop_id": "S475",
+    "name": "Stop 475",
+    "lat": 17.3294749,
+    "lon": 78.5536367
+  },
+  {
+    "stop_id": "S476",
+    "name": "Boduppal Ambedkar statue",
+    "lat": 17.4184052,
+    "lon": 78.5845384
+  },
+  {
+    "stop_id": "S477",
+    "name": "Boduppal Ambedkar statue",
+    "lat": 17.4183442,
+    "lon": 78.5845955
+  },
+  {
+    "stop_id": "S478",
+    "name": "Stop 478",
+    "lat": 17.3588326,
+    "lon": 78.5248567
+  },
+  {
+    "stop_id": "S479",
+    "name": "Stop 479",
+    "lat": 17.3565363,
+    "lon": 78.5300615
+  },
+  {
+    "stop_id": "S480",
+    "name": "Santhosimata Temple Bus Stop",
+    "lat": 17.4687204,
+    "lon": 78.5444013
+  },
+  {
+    "stop_id": "S481",
+    "name": "Santhosimata Temple Bus Stop",
+    "lat": 17.4686002,
+    "lon": 78.5445726
+  },
+  {
+    "stop_id": "S482",
+    "name": "Miyapur Bus Stop",
+    "lat": 17.4960657,
+    "lon": 78.358174
+  },
+  {
+    "stop_id": "S483",
+    "name": "Miyapur Bus Stop",
+    "lat": 17.4956452,
+    "lon": 78.3580186
+  },
+  {
+    "stop_id": "S484",
+    "name": "Miyapur X Road Bus Stop",
+    "lat": 17.4967452,
+    "lon": 78.3632758
+  },
+  {
+    "stop_id": "S485",
+    "name": "Miyapur X Road Bus Stop",
+    "lat": 17.4964001,
+    "lon": 78.3627254
+  },
+  {
+    "stop_id": "S486",
+    "name": "Stop 486",
+    "lat": 17.3728388,
+    "lon": 78.4993697
+  },
+  {
+    "stop_id": "S487",
+    "name": "Stop 487",
+    "lat": 17.3721098,
+    "lon": 78.4994461
+  },
+  {
+    "stop_id": "S488",
+    "name": "Stop 488",
+    "lat": 17.3638368,
+    "lon": 78.5019439
+  },
+  {
+    "stop_id": "S489",
+    "name": "Stop 489",
+    "lat": 17.3640455,
+    "lon": 78.5020874
+  },
+  {
+    "stop_id": "S490",
+    "name": "Stop 490",
+    "lat": 17.351786,
+    "lon": 78.507077
+  },
+  {
+    "stop_id": "S491",
+    "name": "Stop 491",
+    "lat": 17.3517885,
+    "lon": 78.5074619
+  },
+  {
+    "stop_id": "S492",
+    "name": "Stop 492",
+    "lat": 17.351969,
+    "lon": 78.5075625
+  },
+  {
+    "stop_id": "S493",
+    "name": "Stop 493",
+    "lat": 17.3595443,
+    "lon": 78.5047676
+  },
+  {
+    "stop_id": "S494",
+    "name": "Stop 494",
+    "lat": 17.3595251,
+    "lon": 78.5046516
+  },
+  {
+    "stop_id": "S495",
+    "name": "Balaji hills colony bustop",
+    "lat": 17.414842,
+    "lon": 78.5710841
+  },
+  {
+    "stop_id": "S496",
+    "name": "uppal - kushaiguda",
+    "lat": 17.4016836,
+    "lon": 78.5623761
+  },
+  {
+    "stop_id": "S497",
+    "name": "Stop 497",
+    "lat": 17.4015854,
+    "lon": 78.5622183
+  },
+  {
+    "stop_id": "S498",
+    "name": "Stop 498",
+    "lat": 17.4014901,
+    "lon": 78.5652061
+  },
+  {
+    "stop_id": "S499",
+    "name": "Stop 499",
+    "lat": 17.4013698,
+    "lon": 78.5625373
+  },
+  {
+    "stop_id": "S500",
+    "name": "Amberpet bus stop",
+    "lat": 17.3922547,
+    "lon": 78.5167397
+  },
+  {
+    "stop_id": "S501",
+    "name": "ammuguda",
+    "lat": 17.4969771,
+    "lon": 78.5324672
+  },
+  {
+    "stop_id": "S502",
+    "name": "Balaji nagar",
+    "lat": 17.5124509,
+    "lon": 78.5579604
+  },
+  {
+    "stop_id": "S503",
+    "name": "Balaji nagar",
+    "lat": 17.5127203,
+    "lon": 78.5626794
+  },
+  {
+    "stop_id": "S504",
+    "name": "Cpl Amberpet Bus stop",
+    "lat": 17.3865699,
+    "lon": 78.516708
+  },
+  {
+    "stop_id": "S505",
+    "name": "Boduppal bustop",
+    "lat": 17.4047353,
+    "lon": 78.5865032
+  },
+  {
+    "stop_id": "S506",
+    "name": "Boduppal bustop",
+    "lat": 17.4045179,
+    "lon": 78.5865916
+  },
+  {
+    "stop_id": "S507",
+    "name": "Stop 507",
+    "lat": 17.4013874,
+    "lon": 78.5714637
+  },
+  {
+    "stop_id": "S508",
+    "name": "Stop 508",
+    "lat": 17.4013519,
+    "lon": 78.565498
+  },
+  {
+    "stop_id": "S509",
+    "name": "Stop 509",
+    "lat": 17.4099864,
+    "lon": 78.5079415
+  },
+  {
+    "stop_id": "S510",
+    "name": "nallakunta busstop",
+    "lat": 17.4079329,
+    "lon": 78.5135334
+  },
+  {
+    "stop_id": "S511",
+    "name": "kukatpally bus stop",
+    "lat": 17.4839048,
+    "lon": 78.4122815
+  },
+  {
+    "stop_id": "S512",
+    "name": "Mehdipatnam Bus Station",
+    "lat": 17.3946964,
+    "lon": 78.4405242
+  },
+  {
+    "stop_id": "S513",
+    "name": "Mehdipatnam Bus Station",
+    "lat": 17.3948051,
+    "lon": 78.4404249
+  },
+  {
+    "stop_id": "S514",
+    "name": "Mehdipatnam Bus Station",
+    "lat": 17.3947641,
+    "lon": 78.4404769
+  },
+  {
+    "stop_id": "S515",
+    "name": "Stop 515",
+    "lat": 17.4589657,
+    "lon": 78.5000894
+  },
+  {
+    "stop_id": "S516",
+    "name": "Stop 516",
+    "lat": 17.4589452,
+    "lon": 78.5002707
+  },
+  {
+    "stop_id": "S517",
+    "name": "old safilguda",
+    "lat": 17.46921,
+    "lon": 78.5492544
+  },
+  {
+    "stop_id": "S518",
+    "name": "uppal",
+    "lat": 17.5125871,
+    "lon": 78.339186
+  },
+  {
+    "stop_id": "S519",
+    "name": "indiramma colony bus stop",
+    "lat": 17.5694643,
+    "lon": 78.4426636
+  },
+  {
+    "stop_id": "S520",
+    "name": "jagathgiri gutta bus stop",
+    "lat": 17.5020614,
+    "lon": 78.4260712
+  },
+  {
+    "stop_id": "S521",
+    "name": "Narsingi Bus Stop",
+    "lat": 17.3854116,
+    "lon": 78.3545048
+  },
+  {
+    "stop_id": "S522",
+    "name": "Stop 522",
+    "lat": 17.2265858,
+    "lon": 78.3987667
+  },
+  {
+    "stop_id": "S523",
+    "name": "Gandhi Nagar Bus stop",
+    "lat": 17.3913148,
+    "lon": 78.543651
+  },
+  {
+    "stop_id": "S524",
+    "name": "Stop 524",
+    "lat": 17.4994291,
+    "lon": 78.3894893
+  },
+  {
+    "stop_id": "S525",
+    "name": "Srinivas Nagar Last Bus Stop",
+    "lat": 17.5113036,
+    "lon": 78.4239601
+  },
+  {
+    "stop_id": "S526",
+    "name": "srinivas nagar",
+    "lat": 17.5114776,
+    "lon": 78.4247147
+  },
+  {
+    "stop_id": "S527",
+    "name": "E- Seva",
+    "lat": 17.5089536,
+    "lon": 78.4285379
+  },
+  {
+    "stop_id": "S528",
+    "name": "Maqdoom Nagar bus stop",
+    "lat": 17.508136,
+    "lon": 78.4296361
+  },
+  {
+    "stop_id": "S529",
+    "name": "Ganesh Nagar Bus Stop",
+    "lat": 17.4916892,
+    "lon": 78.4514832
+  },
+  {
+    "stop_id": "S530",
+    "name": "Ramaram X road bus stop",
+    "lat": 17.5108435,
+    "lon": 78.447589
+  },
+  {
+    "stop_id": "S531",
+    "name": "auto Stamd",
+    "lat": 17.5104947,
+    "lon": 78.4476599
+  },
+  {
+    "stop_id": "S532",
+    "name": "umcc",
+    "lat": 17.5223087,
+    "lon": 78.4293048
+  },
+  {
+    "stop_id": "S533",
+    "name": "Nanda Nagar",
+    "lat": 17.4893076,
+    "lon": 78.4445332
+  },
+  {
+    "stop_id": "S534",
+    "name": "2nd Phase bus Stop",
+    "lat": 17.4601463,
+    "lon": 78.5642815
+  },
+  {
+    "stop_id": "S535",
+    "name": "Madhuban Colony",
+    "lat": 17.3012944,
+    "lon": 78.4382809
+  },
+  {
+    "stop_id": "S536",
+    "name": "Stop 536",
+    "lat": 17.3684133,
+    "lon": 78.5241497
+  },
+  {
+    "stop_id": "S537",
+    "name": "Mazidpur X Roads",
+    "lat": 17.2875979,
+    "lon": 78.6935578
+  },
+  {
+    "stop_id": "S538",
+    "name": "RTC Colony",
+    "lat": 17.4199483,
+    "lon": 78.6068151
+  },
+  {
+    "stop_id": "S539",
+    "name": "Chengicherla IDA Entrance",
+    "lat": 17.4114348,
+    "lon": 78.6070496
+  },
+  {
+    "stop_id": "S540",
+    "name": "Chengicherla Depot Bus Stop",
+    "lat": 17.4227511,
+    "lon": 78.6060886
+  },
+  {
+    "stop_id": "S541",
+    "name": "Peerzadiguda Road Bus Stop",
+    "lat": 17.4013579,
+    "lon": 78.5815697
+  },
+  {
+    "stop_id": "S542",
+    "name": "Uppal Depot Bus Stop",
+    "lat": 17.4053501,
+    "lon": 78.588911
+  },
+  {
+    "stop_id": "S543",
+    "name": "Abdullapurmettu Bus Stop",
+    "lat": 17.3098347,
+    "lon": 78.6867411
+  },
+  {
+    "stop_id": "S544",
+    "name": "Abdullapurmettu Bus Stop",
+    "lat": 17.3100121,
+    "lon": 78.6866162
+  },
+  {
+    "stop_id": "S545",
+    "name": "RFC Bus Stop",
+    "lat": 17.3116197,
+    "lon": 78.6825877
+  },
+  {
+    "stop_id": "S546",
+    "name": "RFC Bus Stop",
+    "lat": 17.3118311,
+    "lon": 78.6824653
+  },
+  {
+    "stop_id": "S547",
+    "name": "SGM Polytechnic",
+    "lat": 17.3132208,
+    "lon": 78.6788998
+  },
+  {
+    "stop_id": "S548",
+    "name": "Peddamberpet",
+    "lat": 17.3214309,
+    "lon": 78.6387324
+  },
+  {
+    "stop_id": "S549",
+    "name": "Peddamberpet",
+    "lat": 17.3215876,
+    "lon": 78.6387132
+  },
+  {
+    "stop_id": "S550",
+    "name": "Peddamberpet X Roads",
+    "lat": 17.3204344,
+    "lon": 78.6417859
+  },
+  {
+    "stop_id": "S551",
+    "name": "Word & Deed Colony",
+    "lat": 17.3208011,
+    "lon": 78.6137856
+  },
+  {
+    "stop_id": "S552",
+    "name": "Chengicherla",
+    "lat": 17.4332003,
+    "lon": 78.6084647
+  },
+  {
+    "stop_id": "S553",
+    "name": "Chengicherla",
+    "lat": 17.4331107,
+    "lon": 78.6085864
+  },
+  {
+    "stop_id": "S554",
+    "name": "Shkati",
+    "lat": 17.4489891,
+    "lon": 78.6115598
+  },
+  {
+    "stop_id": "S555",
+    "name": "Shakthi Sai Nagar Kaman",
+    "lat": 17.4489672,
+    "lon": 78.611471
+  },
+  {
+    "stop_id": "S556",
+    "name": "Cherlapalli Railway Station",
+    "lat": 17.4590351,
+    "lon": 78.6043469
+  },
+  {
+    "stop_id": "S557",
+    "name": "LB Nagar Bus Stop",
+    "lat": 17.347001,
+    "lon": 78.5511269
+  },
+  {
+    "stop_id": "S558",
+    "name": "LB Nagar Bus Stop",
+    "lat": 17.3460037,
+    "lon": 78.5507702
+  },
+  {
+    "stop_id": "S559",
+    "name": "Chengicherla Bus Depot road",
+    "lat": 17.4227743,
+    "lon": 78.6061024
+  },
+  {
+    "stop_id": "S560",
+    "name": "Stop 560",
+    "lat": 17.3955731,
+    "lon": 78.3149717
+  },
+  {
+    "stop_id": "S561",
+    "name": "Chengicherla Road Bus Stop",
+    "lat": 17.4114477,
+    "lon": 78.6070518
+  },
+  {
+    "stop_id": "S562",
+    "name": "AP/TS RTC Bus Stop",
+    "lat": 17.2379774,
+    "lon": 78.4285696
+  },
+  {
+    "stop_id": "S563",
+    "name": "Stop 563",
+    "lat": 17.4734856,
+    "lon": 78.5507089
+  },
+  {
+    "stop_id": "S564",
+    "name": "Stop 564",
+    "lat": 17.4945147,
+    "lon": 78.3944117
+  },
+  {
+    "stop_id": "S565",
+    "name": "Jntu Bus Stop",
+    "lat": 17.4964222,
+    "lon": 78.3940452
+  },
+  {
+    "stop_id": "S566",
+    "name": "Stop 566",
+    "lat": 17.4343964,
+    "lon": 78.3688876
+  },
+  {
+    "stop_id": "S567",
+    "name": "Stop 567",
+    "lat": 17.4308354,
+    "lon": 78.3724103
+  },
+  {
+    "stop_id": "S568",
+    "name": "Stop 568",
+    "lat": 17.4444819,
+    "lon": 78.4872492
+  },
+  {
+    "stop_id": "S569",
+    "name": "Stop 569",
+    "lat": 17.4428102,
+    "lon": 78.4974573
+  },
+  {
+    "stop_id": "S570",
+    "name": "Stop 570",
+    "lat": 17.4430034,
+    "lon": 78.4939211
+  },
+  {
+    "stop_id": "S571",
+    "name": "Stop 571",
+    "lat": 17.442626,
+    "lon": 78.3774021
+  },
+  {
+    "stop_id": "S572",
+    "name": "Stop 572",
+    "lat": 17.4669656,
+    "lon": 78.4453181
+  },
+  {
+    "stop_id": "S573",
+    "name": "Stop 573",
+    "lat": 17.4796632,
+    "lon": 78.3901641
+  },
+  {
+    "stop_id": "S574",
+    "name": "Jubilee Hills - Checkpost",
+    "lat": 17.4263581,
+    "lon": 78.4166031
+  },
+  {
+    "stop_id": "S575",
+    "name": "Stop 575",
+    "lat": 17.4222531,
+    "lon": 78.3832381
+  },
+  {
+    "stop_id": "S576",
+    "name": "Stop 576",
+    "lat": 17.4121581,
+    "lon": 78.4321338
+  },
+  {
+    "stop_id": "S577",
+    "name": "Diamond Point",
+    "lat": 17.4622818,
+    "lon": 78.4909154
+  },
+  {
+    "stop_id": "S578",
+    "name": "Rampally X Roads Bus stop",
+    "lat": 17.4937197,
+    "lon": 78.6058267
+  },
+  {
+    "stop_id": "S579",
+    "name": "Rampally X Roads Bus stop",
+    "lat": 17.4936091,
+    "lon": 78.6056213
+  },
+  {
+    "stop_id": "S580",
+    "name": "Rampally X Roads Bus stop",
+    "lat": 17.493982,
+    "lon": 78.6057502
+  },
+  {
+    "stop_id": "S581",
+    "name": "Rampally X  Roads Bus stop",
+    "lat": 17.4942808,
+    "lon": 78.6065174
+  },
+  {
+    "stop_id": "S582",
+    "name": "Nagaram Bus stop",
+    "lat": 17.4879013,
+    "lon": 78.6009771
+  },
+  {
+    "stop_id": "S583",
+    "name": "ICFAI Bus stop",
+    "lat": 17.4187227,
+    "lon": 78.2188418
+  },
+  {
+    "stop_id": "S584",
+    "name": "Stop 584",
+    "lat": 17.4209535,
+    "lon": 78.4113173
+  },
+  {
+    "stop_id": "S585",
+    "name": "Stop 585",
+    "lat": 17.4185971,
+    "lon": 78.4130492
+  },
+  {
+    "stop_id": "S586",
+    "name": "Stop 586",
+    "lat": 17.4060315,
+    "lon": 78.4671352
+  },
+  {
+    "stop_id": "S587",
+    "name": "Opp. Cyber Gateway Bus Stop",
+    "lat": 17.4461896,
+    "lon": 78.3775642
+  },
+  {
+    "stop_id": "S588",
+    "name": "Stop 588",
+    "lat": 17.4474811,
+    "lon": 78.3842208
+  },
+  {
+    "stop_id": "S589",
+    "name": "Stop 589",
+    "lat": 17.4411436,
+    "lon": 78.3903966
+  },
+  {
+    "stop_id": "S590",
+    "name": "Stop 590",
+    "lat": 17.441156,
+    "lon": 78.3893805
+  },
+  {
+    "stop_id": "S591",
+    "name": "Yashoda Hospitals",
+    "lat": 17.4621433,
+    "lon": 78.3851619
+  },
+  {
+    "stop_id": "S592",
+    "name": "Shilparamam bus bay",
+    "lat": 17.4551358,
+    "lon": 78.3781882
+  },
+  {
+    "stop_id": "S593",
+    "name": "Hitech City 'X' Roads",
+    "lat": 17.4520621,
+    "lon": 78.3814529
+  },
+  {
+    "stop_id": "S594",
+    "name": "Stop 594",
+    "lat": 17.380171,
+    "lon": 78.5821085
+  },
+  {
+    "stop_id": "S595",
+    "name": "jayaram nagar bus stop",
+    "lat": 17.5077267,
+    "lon": 78.4632591
+  },
+  {
+    "stop_id": "S596",
+    "name": "jayaram nagar bus stop",
+    "lat": 17.5076748,
+    "lon": 78.4624207
+  }
+]

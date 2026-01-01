@@ -1,0 +1,1082 @@
+[
+  {
+    "route_id": "R0001",
+    "route_name": "Indra Nagar → RFC Bus Stop",
+    "start_stop_id": "S115",
+    "end_stop_id": "S545",
+    "num_stops": 6,
+    "distance_km": 39.16,
+    "base_fare": 107.9
+  },
+  {
+    "route_id": "R0002",
+    "route_name": "Gandhi Hospital → HCU",
+    "start_stop_id": "S224",
+    "end_stop_id": "S151",
+    "num_stops": 17,
+    "distance_km": 36.36,
+    "base_fare": 100.9
+  },
+  {
+    "route_id": "R0003",
+    "route_name": "BITS Pilani → Cyberabad Police Commissionerate",
+    "start_stop_id": "S368",
+    "end_stop_id": "S169",
+    "num_stops": 6,
+    "distance_km": 28.68,
+    "base_fare": 81.7
+  },
+  {
+    "route_id": "R0004",
+    "route_name": "Yousufguda Basti stop → LB Nagar Bus Stop",
+    "start_stop_id": "S301",
+    "end_stop_id": "S558",
+    "num_stops": 8,
+    "distance_km": 19.46,
+    "base_fare": 58.65
+  },
+  {
+    "route_id": "R0005",
+    "route_name": "Stop 374 → Gulmohar Park Colony",
+    "start_stop_id": "S374",
+    "end_stop_id": "S162",
+    "num_stops": 9,
+    "distance_km": 25.51,
+    "base_fare": 73.78
+  },
+  {
+    "route_id": "R0006",
+    "route_name": "hill fort → Narsingi Bus Stop",
+    "start_stop_id": "S277",
+    "end_stop_id": "S521",
+    "num_stops": 18,
+    "distance_km": 44.95,
+    "base_fare": 122.38
+  },
+  {
+    "route_id": "R0007",
+    "route_name": "HCU Bus Depot → Peerzadiguda Road Bus Stop",
+    "start_stop_id": "S143",
+    "end_stop_id": "S541",
+    "num_stops": 6,
+    "distance_km": 35.15,
+    "base_fare": 97.88
+  },
+  {
+    "route_id": "R0008",
+    "route_name": "Sheikpet Nala → Nagole to Bandlaguda",
+    "start_stop_id": "S142",
+    "end_stop_id": "S244",
+    "num_stops": 5,
+    "distance_km": 17.2,
+    "base_fare": 53.0
+  },
+  {
+    "route_id": "R0009",
+    "route_name": "Telecom Nagar → Stop 499",
+    "start_stop_id": "S164",
+    "end_stop_id": "S499",
+    "num_stops": 9,
+    "distance_km": 23.08,
+    "base_fare": 67.7
+  },
+  {
+    "route_id": "R0010",
+    "route_name": "Muudu Gudulu → Lingampally Railway Station",
+    "start_stop_id": "S446",
+    "end_stop_id": "S334",
+    "num_stops": 8,
+    "distance_km": 27.96,
+    "base_fare": 79.9
+  },
+  {
+    "route_id": "R0011",
+    "route_name": "Mehdipatnam → Stop 294",
+    "start_stop_id": "S166",
+    "end_stop_id": "S294",
+    "num_stops": 6,
+    "distance_km": 17.9,
+    "base_fare": 54.75
+  },
+  {
+    "route_id": "R0012",
+    "route_name": "Chiryala → Telecom Nagar",
+    "start_stop_id": "S372",
+    "end_stop_id": "S147",
+    "num_stops": 5,
+    "distance_km": 30.0,
+    "base_fare": 85.0
+  },
+  {
+    "route_id": "R0013",
+    "route_name": "Stop 498 → Taranagar",
+    "start_stop_id": "S498",
+    "end_stop_id": "S223",
+    "num_stops": 6,
+    "distance_km": 29.64,
+    "base_fare": 84.1
+  },
+  {
+    "route_id": "R0014",
+    "route_name": "Stop 434 → Gangaram",
+    "start_stop_id": "S434",
+    "end_stop_id": "S392",
+    "num_stops": 9,
+    "distance_km": 28.15,
+    "base_fare": 80.38
+  },
+  {
+    "route_id": "R0015",
+    "route_name": "Kaman → Panama",
+    "start_stop_id": "S66",
+    "end_stop_id": "S193",
+    "num_stops": 4,
+    "distance_km": 16.87,
+    "base_fare": 52.18
+  },
+  {
+    "route_id": "R0016",
+    "route_name": "Diamond Point → Chandanagar Bus stop",
+    "start_stop_id": "S61",
+    "end_stop_id": "S432",
+    "num_stops": 12,
+    "distance_km": 27.1,
+    "base_fare": 77.75
+  },
+  {
+    "route_id": "R0017",
+    "route_name": "Secunderabad Uppal Bus Stop → TSRTC BUS STAND , HAYATNAGAR",
+    "start_stop_id": "S442",
+    "end_stop_id": "S422",
+    "num_stops": 6,
+    "distance_km": 18.74,
+    "base_fare": 56.85
+  },
+  {
+    "route_id": "R0018",
+    "route_name": "Panjagutta → Stop 228",
+    "start_stop_id": "S348",
+    "end_stop_id": "S228",
+    "num_stops": 6,
+    "distance_km": 25.93,
+    "base_fare": 74.83
+  },
+  {
+    "route_id": "R0019",
+    "route_name": "Mahavir Hospital → HCU Small Gate",
+    "start_stop_id": "S286",
+    "end_stop_id": "S165",
+    "num_stops": 18,
+    "distance_km": 34.61,
+    "base_fare": 96.53
+  },
+  {
+    "route_id": "R0020",
+    "route_name": "church bus stop → Chaitanyapuri",
+    "start_stop_id": "S272",
+    "end_stop_id": "S185",
+    "num_stops": 5,
+    "distance_km": 29.76,
+    "base_fare": 84.4
+  },
+  {
+    "route_id": "R0021",
+    "route_name": "Taranagar → Mother Dairy",
+    "start_stop_id": "S223",
+    "end_stop_id": "S229",
+    "num_stops": 5,
+    "distance_km": 39.25,
+    "base_fare": 108.12
+  },
+  {
+    "route_id": "R0022",
+    "route_name": "Stop 489 → hitex bus stop",
+    "start_stop_id": "S489",
+    "end_stop_id": "S313",
+    "num_stops": 27,
+    "distance_km": 48.06,
+    "base_fare": 130.15
+  },
+  {
+    "route_id": "R0023",
+    "route_name": "amberpet bus stop → Opp. Cyber Gateway Bus Stop",
+    "start_stop_id": "S76",
+    "end_stop_id": "S587",
+    "num_stops": 6,
+    "distance_km": 16.84,
+    "base_fare": 52.1
+  },
+  {
+    "route_id": "R0024",
+    "route_name": "Gulmohar Park Colony → Balaji nagar",
+    "start_stop_id": "S162",
+    "end_stop_id": "S503",
+    "num_stops": 20,
+    "distance_km": 54.11,
+    "base_fare": 145.28
+  },
+  {
+    "route_id": "R0025",
+    "route_name": "Stop 434 → kompally",
+    "start_stop_id": "S434",
+    "end_stop_id": "S352",
+    "num_stops": 10,
+    "distance_km": 47.91,
+    "base_fare": 129.77
+  },
+  {
+    "route_id": "R0026",
+    "route_name": "Galaxy → Nagole X Road",
+    "start_stop_id": "S153",
+    "end_stop_id": "S246",
+    "num_stops": 6,
+    "distance_km": 19.68,
+    "base_fare": 59.2
+  },
+  {
+    "route_id": "R0027",
+    "route_name": "Stop 374 → Abdullapurmettu Bus Stop",
+    "start_stop_id": "S374",
+    "end_stop_id": "S543",
+    "num_stops": 5,
+    "distance_km": 23.83,
+    "base_fare": 69.57
+  },
+  {
+    "route_id": "R0028",
+    "route_name": "Jubilee Hills - Checkpost → Uppal",
+    "start_stop_id": "S574",
+    "end_stop_id": "S260",
+    "num_stops": 5,
+    "distance_km": 16.96,
+    "base_fare": 52.4
+  },
+  {
+    "route_id": "R0029",
+    "route_name": "Stop 341 → Stop 319",
+    "start_stop_id": "S341",
+    "end_stop_id": "S319",
+    "num_stops": 18,
+    "distance_km": 33.68,
+    "base_fare": 94.2
+  },
+  {
+    "route_id": "R0030",
+    "route_name": "Mahavir Hospital → Chiryala",
+    "start_stop_id": "S286",
+    "end_stop_id": "S371",
+    "num_stops": 5,
+    "distance_km": 33.6,
+    "base_fare": 94.0
+  },
+  {
+    "route_id": "R0031",
+    "route_name": "Chey Number → Stop 560",
+    "start_stop_id": "S268",
+    "end_stop_id": "S560",
+    "num_stops": 29,
+    "distance_km": 88.74,
+    "base_fare": 231.85
+  },
+  {
+    "route_id": "R0032",
+    "route_name": "Stop 568 → Lingampally",
+    "start_stop_id": "S568",
+    "end_stop_id": "S139",
+    "num_stops": 6,
+    "distance_km": 21.07,
+    "base_fare": 62.67
+  },
+  {
+    "route_id": "R0033",
+    "route_name": "Chhota Anjaiah Nagar → Lb Nagar to Uppal",
+    "start_stop_id": "S1",
+    "end_stop_id": "S382",
+    "num_stops": 5,
+    "distance_km": 24.36,
+    "base_fare": 70.9
+  },
+  {
+    "route_id": "R0034",
+    "route_name": "Ameerpet → Ayodhya x road",
+    "start_stop_id": "S453",
+    "end_stop_id": "S367",
+    "num_stops": 13,
+    "distance_km": 55.84,
+    "base_fare": 149.6
+  },
+  {
+    "route_id": "R0035",
+    "route_name": "Stop 487 → bowrampet",
+    "start_stop_id": "S487",
+    "end_stop_id": "S361",
+    "num_stops": 25,
+    "distance_km": 83.46,
+    "base_fare": 218.65
+  },
+  {
+    "route_id": "R0036",
+    "route_name": "HCU → A.S. Rao Nagar",
+    "start_stop_id": "S163",
+    "end_stop_id": "S451",
+    "num_stops": 7,
+    "distance_km": 31.31,
+    "base_fare": 88.27
+  },
+  {
+    "route_id": "R0037",
+    "route_name": "DLF Bus stop near JNIB → LB Nagar",
+    "start_stop_id": "S80",
+    "end_stop_id": "S190",
+    "num_stops": 6,
+    "distance_km": 24.81,
+    "base_fare": 72.03
+  },
+  {
+    "route_id": "R0038",
+    "route_name": "NMDC → Alind / Doyens Colony",
+    "start_stop_id": "S237",
+    "end_stop_id": "S148",
+    "num_stops": 9,
+    "distance_km": 21.95,
+    "base_fare": 64.88
+  },
+  {
+    "route_id": "R0039",
+    "route_name": "Chandanagar Bus Stop → Virat Nagar and New Maruthi Nagar Bus Stop",
+    "start_stop_id": "S431",
+    "end_stop_id": "S396",
+    "num_stops": 29,
+    "distance_km": 72.25,
+    "base_fare": 190.62
+  },
+  {
+    "route_id": "R0040",
+    "route_name": "Stop 473 → kushaiguda",
+    "start_stop_id": "S473",
+    "end_stop_id": "S461",
+    "num_stops": 12,
+    "distance_km": 43.93,
+    "base_fare": 119.83
+  },
+  {
+    "route_id": "R0041",
+    "route_name": "Uppal 'X' Roads → Chandanagar Bus Stop",
+    "start_stop_id": "S259",
+    "end_stop_id": "S431",
+    "num_stops": 5,
+    "distance_km": 28.83,
+    "base_fare": 82.07
+  },
+  {
+    "route_id": "R0042",
+    "route_name": "Stop 71 → ICFAI Bus stop",
+    "start_stop_id": "S71",
+    "end_stop_id": "S583",
+    "num_stops": 11,
+    "distance_km": 59.67,
+    "base_fare": 159.18
+  },
+  {
+    "route_id": "R0043",
+    "route_name": "Mythrinagar Bus Stop → Dwaraka Nagar",
+    "start_stop_id": "S263",
+    "end_stop_id": "S219",
+    "num_stops": 15,
+    "distance_km": 40.16,
+    "base_fare": 110.4
+  },
+  {
+    "route_id": "R0044",
+    "route_name": "Jeedimetla Bus Stop → Boduppal bustop",
+    "start_stop_id": "S439",
+    "end_stop_id": "S506",
+    "num_stops": 7,
+    "distance_km": 26.84,
+    "base_fare": 77.1
+  },
+  {
+    "route_id": "R0045",
+    "route_name": "Chiryala → Madhapur Image Gardens",
+    "start_stop_id": "S371",
+    "end_stop_id": "S420",
+    "num_stops": 7,
+    "distance_km": 31.03,
+    "base_fare": 87.58
+  },
+  {
+    "route_id": "R0046",
+    "route_name": "Suchitra Bus Stop → Jaipuri colony bus stop",
+    "start_stop_id": "S275",
+    "end_stop_id": "S458",
+    "num_stops": 8,
+    "distance_km": 26.64,
+    "base_fare": 76.6
+  },
+  {
+    "route_id": "R0047",
+    "route_name": "Lingampally Railway Station → Rampally X Roads Bus stop",
+    "start_stop_id": "S333",
+    "end_stop_id": "S580",
+    "num_stops": 5,
+    "distance_km": 35.79,
+    "base_fare": 99.47
+  },
+  {
+    "route_id": "R0048",
+    "route_name": "Paradise → Stop 404",
+    "start_stop_id": "S283",
+    "end_stop_id": "S404",
+    "num_stops": 8,
+    "distance_km": 17.06,
+    "base_fare": 52.65
+  },
+  {
+    "route_id": "R0049",
+    "route_name": "Sikh Village → Temple Bus Stop",
+    "start_stop_id": "S18",
+    "end_stop_id": "S273",
+    "num_stops": 20,
+    "distance_km": 45.87,
+    "base_fare": 124.67
+  },
+  {
+    "route_id": "R0050",
+    "route_name": "Banjara Hills Road No.2 Lumbini Mall → Nagole to Kothapet",
+    "start_stop_id": "S123",
+    "end_stop_id": "S245",
+    "num_stops": 12,
+    "distance_km": 24.87,
+    "base_fare": 72.18
+  },
+  {
+    "route_id": "R0051",
+    "route_name": "SGM Polytechnic → HCU Bus Depot",
+    "start_stop_id": "S547",
+    "end_stop_id": "S134",
+    "num_stops": 13,
+    "distance_km": 53.68,
+    "base_fare": 144.2
+  },
+  {
+    "route_id": "R0052",
+    "route_name": "Stop 53 → Stop 319",
+    "start_stop_id": "S53",
+    "end_stop_id": "S319",
+    "num_stops": 7,
+    "distance_km": 22.34,
+    "base_fare": 65.85
+  },
+  {
+    "route_id": "R0053",
+    "route_name": "Diamond Point → HCU Bus Depot",
+    "start_stop_id": "S577",
+    "end_stop_id": "S134",
+    "num_stops": 12,
+    "distance_km": 29.38,
+    "base_fare": 83.45
+  },
+  {
+    "route_id": "R0054",
+    "route_name": "Mallikarjuna Nagar → Stop 292",
+    "start_stop_id": "S102",
+    "end_stop_id": "S292",
+    "num_stops": 9,
+    "distance_km": 48.45,
+    "base_fare": 131.12
+  },
+  {
+    "route_id": "R0055",
+    "route_name": "Miyapur Bus Stop → LB Nagar City Bus Stop",
+    "start_stop_id": "S482",
+    "end_stop_id": "S181",
+    "num_stops": 6,
+    "distance_km": 28.23,
+    "base_fare": 80.58
+  },
+  {
+    "route_id": "R0056",
+    "route_name": "Bandlaguda → dulapally",
+    "start_stop_id": "S240",
+    "end_stop_id": "S337",
+    "num_stops": 10,
+    "distance_km": 36.52,
+    "base_fare": 101.3
+  },
+  {
+    "route_id": "R0057",
+    "route_name": "Stop 315 → old safilguda",
+    "start_stop_id": "S315",
+    "end_stop_id": "S517",
+    "num_stops": 14,
+    "distance_km": 29.19,
+    "base_fare": 82.98
+  },
+  {
+    "route_id": "R0058",
+    "route_name": "Stop 590 → Ramoji Film City Bus Pick-Up Point",
+    "start_stop_id": "S590",
+    "end_stop_id": "S35",
+    "num_stops": 11,
+    "distance_km": 75.46,
+    "base_fare": 198.65
+  },
+  {
+    "route_id": "R0059",
+    "route_name": "kamala nagar bus stop → Stop 83",
+    "start_stop_id": "S419",
+    "end_stop_id": "S83",
+    "num_stops": 9,
+    "distance_km": 34.93,
+    "base_fare": 97.33
+  },
+  {
+    "route_id": "R0060",
+    "route_name": "IG Statue Bus stop → Lingampally",
+    "start_stop_id": "S323",
+    "end_stop_id": "S155",
+    "num_stops": 8,
+    "distance_km": 24.59,
+    "base_fare": 71.47
+  },
+  {
+    "route_id": "R0061",
+    "route_name": "Chiryala → Galaxy",
+    "start_stop_id": "S371",
+    "end_stop_id": "S149",
+    "num_stops": 10,
+    "distance_km": 35.17,
+    "base_fare": 97.93
+  },
+  {
+    "route_id": "R0062",
+    "route_name": "Nagole X Road → HCU",
+    "start_stop_id": "S246",
+    "end_stop_id": "S163",
+    "num_stops": 5,
+    "distance_km": 29.3,
+    "base_fare": 83.25
+  },
+  {
+    "route_id": "R0063",
+    "route_name": "Chintal Basti → HCU Small Gate",
+    "start_stop_id": "S117",
+    "end_stop_id": "S165",
+    "num_stops": 6,
+    "distance_km": 17.26,
+    "base_fare": 53.15
+  },
+  {
+    "route_id": "R0064",
+    "route_name": "Balaji hills colony bustop → Hitech City 'X' Roads",
+    "start_stop_id": "S495",
+    "end_stop_id": "S593",
+    "num_stops": 5,
+    "distance_km": 22.77,
+    "base_fare": 66.92
+  },
+  {
+    "route_id": "R0065",
+    "route_name": "Narsingi Bus Stop → Chengicherla",
+    "start_stop_id": "S521",
+    "end_stop_id": "S553",
+    "num_stops": 6,
+    "distance_km": 36.88,
+    "base_fare": 102.2
+  },
+  {
+    "route_id": "R0066",
+    "route_name": "Kalyan Nagar Jn Bustop → Stop 499",
+    "start_stop_id": "S306",
+    "end_stop_id": "S499",
+    "num_stops": 5,
+    "distance_km": 14.82,
+    "base_fare": 47.05
+  },
+  {
+    "route_id": "R0067",
+    "route_name": "LB Nagar Bus Stop → kompally",
+    "start_stop_id": "S557",
+    "end_stop_id": "S354",
+    "num_stops": 8,
+    "distance_km": 30.82,
+    "base_fare": 87.05
+  },
+  {
+    "route_id": "R0068",
+    "route_name": "Miyapur X Road Bus Stop → Stop 508",
+    "start_stop_id": "S485",
+    "end_stop_id": "S508",
+    "num_stops": 4,
+    "distance_km": 24.61,
+    "base_fare": 71.53
+  },
+  {
+    "route_id": "R0069",
+    "route_name": "Stop 340 → Chiryala",
+    "start_stop_id": "S340",
+    "end_stop_id": "S372",
+    "num_stops": 25,
+    "distance_km": 107.71,
+    "base_fare": 279.27
+  },
+  {
+    "route_id": "R0070",
+    "route_name": "Tukaram Gate → bahdurpally village",
+    "start_stop_id": "S103",
+    "end_stop_id": "S363",
+    "num_stops": 16,
+    "distance_km": 77.64,
+    "base_fare": 204.1
+  },
+  {
+    "route_id": "R0071",
+    "route_name": "Dilsukhnagar → Lingampalli Railway Station",
+    "start_stop_id": "S180",
+    "end_stop_id": "S124",
+    "num_stops": 5,
+    "distance_km": 27.13,
+    "base_fare": 77.83
+  },
+  {
+    "route_id": "R0072",
+    "route_name": "Uppal 'X' Road → Cyber Towers",
+    "start_stop_id": "S261",
+    "end_stop_id": "S28",
+    "num_stops": 6,
+    "distance_km": 22.04,
+    "base_fare": 65.1
+  },
+  {
+    "route_id": "R0073",
+    "route_name": "kompally → Stop 492",
+    "start_stop_id": "S354",
+    "end_stop_id": "S492",
+    "num_stops": 5,
+    "distance_km": 22.18,
+    "base_fare": 65.45
+  },
+  {
+    "route_id": "R0074",
+    "route_name": "Jaipuri Last bus stop → Srinivas Nagar Last Bus Stop",
+    "start_stop_id": "S394",
+    "end_stop_id": "S525",
+    "num_stops": 14,
+    "distance_km": 46.55,
+    "base_fare": 126.38
+  },
+  {
+    "route_id": "R0075",
+    "route_name": "A.C. Guards → Bhagyalatha",
+    "start_stop_id": "S236",
+    "end_stop_id": "S212",
+    "num_stops": 5,
+    "distance_km": 18.11,
+    "base_fare": 55.27
+  },
+  {
+    "route_id": "R0076",
+    "route_name": "Radhika Busstop → Beeramguda busstop",
+    "start_stop_id": "S452",
+    "end_stop_id": "S456",
+    "num_stops": 27,
+    "distance_km": 67.67,
+    "base_fare": 179.18
+  },
+  {
+    "route_id": "R0077",
+    "route_name": "GPRA Quarters Enterance → Uppal to secundrabad bustop",
+    "start_stop_id": "S127",
+    "end_stop_id": "S378",
+    "num_stops": 5,
+    "distance_km": 22.35,
+    "base_fare": 65.88
+  },
+  {
+    "route_id": "R0078",
+    "route_name": "Bandlaguda → Jeedimetla Bus Stop",
+    "start_stop_id": "S240",
+    "end_stop_id": "S439",
+    "num_stops": 10,
+    "distance_km": 34.2,
+    "base_fare": 95.5
+  },
+  {
+    "route_id": "R0079",
+    "route_name": "M.I.G bus stop → Stop 536",
+    "start_stop_id": "S312",
+    "end_stop_id": "S536",
+    "num_stops": 5,
+    "distance_km": 19.65,
+    "base_fare": 59.12
+  },
+  {
+    "route_id": "R0080",
+    "route_name": "Ramantapur studio bustop → Hitech City 'X' Roads",
+    "start_stop_id": "S380",
+    "end_stop_id": "S593",
+    "num_stops": 7,
+    "distance_km": 20.53,
+    "base_fare": 61.33
+  },
+  {
+    "route_id": "R0081",
+    "route_name": "Ramantapur studio bustop → Miyapur X Road Bus Stop",
+    "start_stop_id": "S380",
+    "end_stop_id": "S485",
+    "num_stops": 8,
+    "distance_km": 34.69,
+    "base_fare": 96.72
+  },
+  {
+    "route_id": "R0082",
+    "route_name": "Imlibun → Chandanagar Bus stop",
+    "start_stop_id": "S195",
+    "end_stop_id": "S432",
+    "num_stops": 4,
+    "distance_km": 23.2,
+    "base_fare": 68.0
+  },
+  {
+    "route_id": "R0083",
+    "route_name": "Stop 342 → Stop 228",
+    "start_stop_id": "S342",
+    "end_stop_id": "S228",
+    "num_stops": 9,
+    "distance_km": 28.99,
+    "base_fare": 82.47
+  },
+  {
+    "route_id": "R0084",
+    "route_name": "Galaxy → Stop 227",
+    "start_stop_id": "S149",
+    "end_stop_id": "S227",
+    "num_stops": 5,
+    "distance_km": 22.79,
+    "base_fare": 66.97
+  },
+  {
+    "route_id": "R0085",
+    "route_name": "Ayodhya x road → Lb Nagar to Uppal",
+    "start_stop_id": "S367",
+    "end_stop_id": "S382",
+    "num_stops": 5,
+    "distance_km": 28.79,
+    "base_fare": 81.97
+  },
+  {
+    "route_id": "R0086",
+    "route_name": "Mudfort → kandlakoya",
+    "start_stop_id": "S130",
+    "end_stop_id": "S355",
+    "num_stops": 27,
+    "distance_km": 138.83,
+    "base_fare": 357.08
+  },
+  {
+    "route_id": "R0087",
+    "route_name": "Basheerbagh → Kothaguda",
+    "start_stop_id": "S282",
+    "end_stop_id": "S78",
+    "num_stops": 18,
+    "distance_km": 26.48,
+    "base_fare": 76.2
+  },
+  {
+    "route_id": "R0088",
+    "route_name": "Stop 321 → Taranagar",
+    "start_stop_id": "S321",
+    "end_stop_id": "S222",
+    "num_stops": 5,
+    "distance_km": 21.79,
+    "base_fare": 64.47
+  },
+  {
+    "route_id": "R0089",
+    "route_name": "Lal Bazar → Stop 292",
+    "start_stop_id": "S88",
+    "end_stop_id": "S292",
+    "num_stops": 24,
+    "distance_km": 137.7,
+    "base_fare": 354.25
+  },
+  {
+    "route_id": "R0090",
+    "route_name": "Mahavir Hospital → Nirmal Nagar",
+    "start_stop_id": "S286",
+    "end_stop_id": "S89",
+    "num_stops": 6,
+    "distance_km": 15.99,
+    "base_fare": 49.98
+  },
+  {
+    "route_id": "R0091",
+    "route_name": "Kukatpally Bus Stop → Nagaram Bus stop",
+    "start_stop_id": "S317",
+    "end_stop_id": "S462",
+    "num_stops": 7,
+    "distance_km": 28.15,
+    "base_fare": 80.38
+  },
+  {
+    "route_id": "R0092",
+    "route_name": "Mindspace → Hayathnagar Bus Depot",
+    "start_stop_id": "S32",
+    "end_stop_id": "S213",
+    "num_stops": 8,
+    "distance_km": 33.23,
+    "base_fare": 93.07
+  },
+  {
+    "route_id": "R0093",
+    "route_name": "Lingampally Railway Station → Stop 191",
+    "start_stop_id": "S333",
+    "end_stop_id": "S191",
+    "num_stops": 13,
+    "distance_km": 38.65,
+    "base_fare": 106.62
+  },
+  {
+    "route_id": "R0094",
+    "route_name": "Stop 221 → kandlakoya",
+    "start_stop_id": "S221",
+    "end_stop_id": "S355",
+    "num_stops": 8,
+    "distance_km": 40.12,
+    "base_fare": 110.3
+  },
+  {
+    "route_id": "R0095",
+    "route_name": "Stop 57 → Stop 34",
+    "start_stop_id": "S57",
+    "end_stop_id": "S34",
+    "num_stops": 9,
+    "distance_km": 48.23,
+    "base_fare": 130.57
+  },
+  {
+    "route_id": "R0096",
+    "route_name": "Clock Tower Circle Bus → dommarapochampally",
+    "start_stop_id": "S441",
+    "end_stop_id": "S360",
+    "num_stops": 7,
+    "distance_km": 34.6,
+    "base_fare": 96.5
+  },
+  {
+    "route_id": "R0097",
+    "route_name": "Stop 471 → vavilala",
+    "start_stop_id": "S471",
+    "end_stop_id": "S357",
+    "num_stops": 7,
+    "distance_km": 51.73,
+    "base_fare": 139.32
+  },
+  {
+    "route_id": "R0098",
+    "route_name": "Lingampally Railway Station → Panama",
+    "start_stop_id": "S333",
+    "end_stop_id": "S192",
+    "num_stops": 6,
+    "distance_km": 34.87,
+    "base_fare": 97.17
+  },
+  {
+    "route_id": "R0099",
+    "route_name": "Stop 411 → Roda Mistry College",
+    "start_stop_id": "S411",
+    "end_stop_id": "S158",
+    "num_stops": 5,
+    "distance_km": 17.17,
+    "base_fare": 52.93
+  },
+  {
+    "route_id": "R0100",
+    "route_name": "Mehdipatnam → Peddamberpet X Roads",
+    "start_stop_id": "S173",
+    "end_stop_id": "S550",
+    "num_stops": 9,
+    "distance_km": 32.45,
+    "base_fare": 91.12
+  },
+  {
+    "route_id": "R0101",
+    "route_name": "Koti Women's College → Chiryala",
+    "start_stop_id": "S203",
+    "end_stop_id": "S372",
+    "num_stops": 15,
+    "distance_km": 70.44,
+    "base_fare": 186.1
+  },
+  {
+    "route_id": "R0102",
+    "route_name": "Basheerbagh → SGM Polytechnic",
+    "start_stop_id": "S282",
+    "end_stop_id": "S547",
+    "num_stops": 6,
+    "distance_km": 38.8,
+    "base_fare": 107.0
+  },
+  {
+    "route_id": "R0103",
+    "route_name": "Stop 294 → Stop 470",
+    "start_stop_id": "S294",
+    "end_stop_id": "S470",
+    "num_stops": 4,
+    "distance_km": 25.66,
+    "base_fare": 74.15
+  },
+  {
+    "route_id": "R0104",
+    "route_name": "Stop 586 → gundlapochampally",
+    "start_stop_id": "S586",
+    "end_stop_id": "S353",
+    "num_stops": 4,
+    "distance_km": 25.32,
+    "base_fare": 73.3
+  },
+  {
+    "route_id": "R0105",
+    "route_name": "kompally → Madhuban Colony",
+    "start_stop_id": "S352",
+    "end_stop_id": "S535",
+    "num_stops": 27,
+    "distance_km": 121.44,
+    "base_fare": 313.6
+  },
+  {
+    "route_id": "R0106",
+    "route_name": "as rao nagar → Stop 221",
+    "start_stop_id": "S318",
+    "end_stop_id": "S221",
+    "num_stops": 10,
+    "distance_km": 29.99,
+    "base_fare": 84.97
+  },
+  {
+    "route_id": "R0107",
+    "route_name": "Chaitanyapuri → HCU Small Gate",
+    "start_stop_id": "S185",
+    "end_stop_id": "S165",
+    "num_stops": 6,
+    "distance_km": 24.17,
+    "base_fare": 70.43
+  },
+  {
+    "route_id": "R0108",
+    "route_name": "Muudu Gudulu → Mother Dairy",
+    "start_stop_id": "S104",
+    "end_stop_id": "S229",
+    "num_stops": 12,
+    "distance_km": 39.43,
+    "base_fare": 108.58
+  },
+  {
+    "route_id": "R0109",
+    "route_name": "Nagole to Bandlaguda → AP/TS RTC Bus Stop",
+    "start_stop_id": "S244",
+    "end_stop_id": "S562",
+    "num_stops": 20,
+    "distance_km": 140.71,
+    "base_fare": 361.78
+  },
+  {
+    "route_id": "R0110",
+    "route_name": "Stop 568 → Stop 332",
+    "start_stop_id": "S568",
+    "end_stop_id": "S332",
+    "num_stops": 14,
+    "distance_km": 100.18,
+    "base_fare": 260.45
+  },
+  {
+    "route_id": "R0111",
+    "route_name": "HPS Bus Stop → Mindspace",
+    "start_stop_id": "S406",
+    "end_stop_id": "S32",
+    "num_stops": 5,
+    "distance_km": 19.06,
+    "base_fare": 57.65
+  },
+  {
+    "route_id": "R0112",
+    "route_name": "Cyber Towers Bus Stop → LB Nagar City Bus Stop",
+    "start_stop_id": "S29",
+    "end_stop_id": "S181",
+    "num_stops": 5,
+    "distance_km": 21.86,
+    "base_fare": 64.65
+  },
+  {
+    "route_id": "R0113",
+    "route_name": "Miyapur X Road Bus Stop → Panama",
+    "start_stop_id": "S484",
+    "end_stop_id": "S192",
+    "num_stops": 5,
+    "distance_km": 29.19,
+    "base_fare": 82.98
+  },
+  {
+    "route_id": "R0114",
+    "route_name": "Stop 221 → Chengicherla",
+    "start_stop_id": "S221",
+    "end_stop_id": "S553",
+    "num_stops": 8,
+    "distance_km": 36.15,
+    "base_fare": 100.38
+  },
+  {
+    "route_id": "R0115",
+    "route_name": "Stop 469 → jangampet",
+    "start_stop_id": "S469",
+    "end_stop_id": "S359",
+    "num_stops": 14,
+    "distance_km": 135.36,
+    "base_fare": 348.4
+  },
+  {
+    "route_id": "R0116",
+    "route_name": "Ranigunj → Gachibowli",
+    "start_stop_id": "S70",
+    "end_stop_id": "S126",
+    "num_stops": 5,
+    "distance_km": 15.35,
+    "base_fare": 48.38
+  },
+  {
+    "route_id": "R0117",
+    "route_name": "Chanikyapuri Colony Bus Stop → Telecom Nagar",
+    "start_stop_id": "S397",
+    "end_stop_id": "S164",
+    "num_stops": 5,
+    "distance_km": 23.95,
+    "base_fare": 69.88
+  },
+  {
+    "route_id": "R0118",
+    "route_name": "Krupa Complex → Miyapur X Road Bus Stop",
+    "start_stop_id": "S107",
+    "end_stop_id": "S485",
+    "num_stops": 13,
+    "distance_km": 42.08,
+    "base_fare": 115.2
+  },
+  {
+    "route_id": "R0119",
+    "route_name": "NIMS → Bhagyalatha",
+    "start_stop_id": "S45",
+    "end_stop_id": "S235",
+    "num_stops": 12,
+    "distance_km": 27.6,
+    "base_fare": 79.0
+  },
+  {
+    "route_id": "R0120",
+    "route_name": "Stop 340 → Rampally X Roads Bus stop",
+    "start_stop_id": "S340",
+    "end_stop_id": "S580",
+    "num_stops": 9,
+    "distance_km": 26.73,
+    "base_fare": 76.83
+  }
+]

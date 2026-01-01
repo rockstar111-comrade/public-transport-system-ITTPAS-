@@ -1,0 +1,14 @@
+# Frontend (project)
+project/node_modules
+project/dist
+project/.env
+
+# Backend (tsrtc_addon)
+tsrtc_addon/node_modules
+tsrtc_addon/dist
+tsrtc_addon/.env
+
+# Common
+.env
+.DS_Store
+logs

@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* ============================= */
+/* FIX TAILWIND SELECT DROPDOWN */
+/* ============================= */
+
+select {
+  -webkit-appearance: menulist;
+  appearance: menulist;
+  background-color: white;
+  pointer-events: auto;
+}
