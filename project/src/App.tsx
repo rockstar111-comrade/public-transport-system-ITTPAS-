@@ -1,6 +1,10 @@
+
 // src/App.tsx
 import { useState } from "react";
 import { AuthProvider, useAuth } from "./contexts/AuthContext";
+
+import { Elements } from "@stripe/react-stripe-js";
+import { loadStripe } from "@stripe/stripe-js";
 
 import Home from "./pages/Home";
 import { LoginPage } from "./components/auth/LoginPage";
@@ -9,11 +13,21 @@ import { RegisterPage } from "./components/auth/RegisterPage";
 import { PassengerDashboard } from "./components/passenger/PassengerDashboard";
 import { ConductorDashboard } from "./components/conductor/ConductorDashboard";
 import { MeesevaDashboard } from "./components/meeseva/MeesevaDashboard";
-
+// import Wallet from "./components/passenger/Wallet";
 import "leaflet/dist/leaflet.css";
+
+/* =====================================================
+   STRIPE INITIALIZATION (ONCE)
+===================================================== */
+const stripePromise = loadStripe(
+  import.meta.env.VITE_STRIPE_PUBLISHABLE_KEY
+);
 
 type PublicView = "home" | "login" | "register";
 
+/* =====================================================
+   APP CONTENT (AUTH + ROLE HANDLING)
+===================================================== */
 function AppContent() {
   const { user, profile, loading, signIn, signUp } = useAuth();
   const [view, setView] = useState<PublicView>("home");
@@ -64,8 +78,6 @@ function AppContent() {
       />
     );
   }
-
- 
   switch (profile.role) {
     case "passenger":
       return <PassengerDashboard onGoHome={() => {}} />;
@@ -85,10 +97,15 @@ function AppContent() {
   }
 }
 
+/* =====================================================
+   ROOT APP (STRIPE + AUTH PROVIDERS)
+===================================================== */
 export default function App() {
   return (
-    <AuthProvider>
-      <AppContent />
-    </AuthProvider>
+    <Elements stripe={stripePromise}>
+      <AuthProvider>
+        <AppContent />
+      </AuthProvider>
+    </Elements>
   );
 }

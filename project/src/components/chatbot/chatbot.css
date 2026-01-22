@@ -1,0 +1,45 @@
+// project/src/components/chatbot/chatbot.css
+.chatbot-fab {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  font-size: 24px;
+}
+
+.chatbot-window {
+  position: fixed;
+  right: 20px;
+  bottom: 90px;
+  width: 360px;
+  height: 480px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+}
+
+.chatbot-body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 10px;
+}
+
+.chatbot-input {
+  display: flex;
+  padding: 8px;
+}
+
+.chatbot-input input {
+  flex: 1;
+}
+
+.message.user {
+  text-align: right;
+}
+
+.message.bot {
+  text-align: left;
+}
